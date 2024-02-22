@@ -8,6 +8,16 @@
         "password": "password"
       },
       {
+        "step": "installPlugin",
+        "pluginZipFile": {
+            "resource": "wordpress.org/plugins",
+            "slug": "coblocks"
+        },
+        "options": {
+            "activate": true
+        }
+      },
+      {
         "step": "importFile",
         "file": {
           "resource": "url",
