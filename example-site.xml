@@ -35,7 +35,7 @@
 	<wp:base_site_url>https://mikestott.me</wp:base_site_url>
 	<wp:base_blog_url>https://mikestott.me</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[user01165100550120]]></wp:author_login><wp:author_email><![CDATA[mikestottuk@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Mike Stott]]></wp:author_display_name><wp:author_first_name><![CDATA[Mike]]></wp:author_first_name><wp:author_last_name><![CDATA[Stott]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Mike Stott]]></wp:author_display_name><wp:author_first_name><![CDATA[Mike]]></wp:author_first_name><wp:author_last_name><![CDATA[Stott]]></wp:author_last_name></wp:author>
 
 				
 	<generator>https://wordpress.org/?v=6.4.3</generator>
@@ -52,7 +52,7 @@
 		<title><![CDATA[About]]></title>
 		<link>https://mikestott.me/about/</link>
 		<pubDate>Mon, 01 Jan 2024 21:23:46 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1496</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:spacer {"height":"36px"} -->
@@ -248,7 +248,7 @@
 		<title><![CDATA[Newsletter]]></title>
 		<link>https://mikestott.me/newsletter/</link>
 		<pubDate>Mon, 01 Jan 2024 21:26:33 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1503</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -328,7 +328,7 @@
 		<title><![CDATA[Courses]]></title>
 		<link>https://mikestott.me/courses/</link>
 		<pubDate>Mon, 01 Jan 2024 21:27:16 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1505</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -368,7 +368,7 @@
 		<title><![CDATA[Home]]></title>
 		<link>https://mikestott.me/</link>
 		<pubDate>Mon, 01 Jan 2024 21:28:10 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1508</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -444,7 +444,7 @@
 		<title><![CDATA[My Courses]]></title>
 		<link>https://mikestott.me/my-courses/</link>
 		<pubDate>Tue, 02 Jan 2024 09:48:36 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/my-courses/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:sensei-lms/button-learner-messages /--><!-- wp:query {"queryId":0,"query":{"postType":"course","perPage":10,"offset":0,"inherit":false,"sticky":"","pages":0,"order":"desc","orderBy":"date","author":"","search":"","exclude":[]},"displayLayout":{"type":"list"},"className":"wp-block-sensei-lms-course-list wp-block-sensei-lms-course-listu002du002dis-list-view"} --><div class="wp-block-query wp-block-sensei-lms-course-list wp-block-sensei-lms-course-list--is-list-view"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"0"}}},"layout":{"type":"constrained"}} -->
@@ -546,7 +546,7 @@
 		<title><![CDATA[Course Completed]]></title>
 		<link>https://mikestott.me/course-completed/</link>
 		<pubDate>Tue, 02 Jan 2024 09:48:36 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/course-completed/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"align":"center","fontSize":"large"} --><p class="has-text-align-center has-large-font-size">Congratulations on completing this course! 🥳</p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","anchor":"course-completed-actions"} --><div class="wp-block-buttons is-content-justification-center" id="course-completed-actions"><!-- wp:button {"className":"more-courses"} --><div class="wp-block-button more-courses"><a class="wp-block-button__link">Find More Courses</a></div><!-- /wp:button --></div><!-- /wp:buttons --><!-- wp:sensei-lms/course-results /-->]]></content:encoded>
@@ -598,7 +598,7 @@
 		<title><![CDATA[Tear downs]]></title>
 		<link>https://mikestott.me/tear-downs/</link>
 		<pubDate>Tue, 02 Jan 2024 22:27:50 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1894</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"color":{"background":"#2762f8"},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}},"dimensions":{"minHeight":"0px"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}},"textColor":"base-2","layout":{"type":"constrained"}} -->
@@ -640,7 +640,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:jetpack/contact-form {"subject":"[Mike Stott] Tear downs","to":"mikestottuk@gmail.com","style":{"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}}}} -->
+<div class="wp-block-column"><!-- wp:jetpack/contact-form {"subject":"[Mike Stott] Tear downs","to":"admin@example.com","style":{"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}}}} -->
 <div class="wp-block-jetpack-contact-form" style="padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:jetpack/field-name {"required":true,"requiredText":"(required)"} /-->
 
 <!-- wp:jetpack/field-email {"required":true,"requiredText":"(required)"} /-->
@@ -693,7 +693,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_f05e6ce61c66c180d0cda01227b768c4c4ca9466]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"mikestottuk@gmail.com";s:7:"subject";s:23:"[Mike Stott] Tear downs";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:1894;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"admin@example.com";s:7:"subject";s:23:"[Mike Stott] Tear downs";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:1894;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_uag_page_assets]]></wp:meta_key>
@@ -756,7 +756,7 @@
 		<title><![CDATA[Growing your audience with a Newsletter]]></title>
 		<link>https://mikestott.me/growing-your-audience-with-a-newsletter/</link>
 		<pubDate>Wed, 03 Jan 2024 15:25:54 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=2029</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"color":{"background":"#2762f8"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}},"className":"newsletter-hero","layout":{"type":"constrained"}} -->
@@ -1064,7 +1064,7 @@
 <!-- /wp:columns -->
 
 <!-- wp:group {"style":{"border":{"width":"1px","color":"#111111","radius":"0px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-border-color" style="border-color:#111111;border-width:1px;border-radius:0px"><!-- wp:jetpack/contact-form {"subject":"[Mike Stott] Growing your audience with a Newsletter","to":"mikestottuk@gmail.com","backgroundColor":"base-2","style":{"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}}}} -->
+<div class="wp-block-group has-border-color" style="border-color:#111111;border-width:1px;border-radius:0px"><!-- wp:jetpack/contact-form {"subject":"[Mike Stott] Growing your audience with a Newsletter","to":"admin@example.com","backgroundColor":"base-2","style":{"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}}}} -->
 <div class="wp-block-jetpack-contact-form has-base-2-background-color has-background has-base-2-background-color has-background" style="padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:jetpack/field-name {"required":true,"requiredText":"(required)"} /-->
 
 <!-- wp:jetpack/field-email {"required":true,"requiredText":"(required)"} /-->
@@ -1107,7 +1107,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_30dd53546d75dc809cc5e76809ef990269eed819]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"mikestottuk@gmail.com";s:7:"subject";s:52:"[Mike Stott] Growing your audience with a Newsletter";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:2029;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"admin@example.com";s:7:"subject";s:52:"[Mike Stott] Growing your audience with a Newsletter";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:2029;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_173d56390c6bf73d5cedd28d10f19aaec951a210]]></wp:meta_key>
@@ -1121,7 +1121,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_173d56390c6bf73d5cedd28d10f19aaec951a210]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"mikestottuk@gmail.com";s:7:"subject";s:52:"[Mike Stott] Growing your audience with a Newsletter";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:2029;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"admin@example.com";s:7:"subject";s:52:"[Mike Stott] Growing your audience with a Newsletter";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:2029;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_uag_page_assets]]></wp:meta_key>
@@ -1160,7 +1160,7 @@
 		<title><![CDATA[Courses by Mike]]></title>
 		<link>https://mikestott.me/courses-by-mike/</link>
 		<pubDate>Wed, 03 Jan 2024 15:45:46 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=2054</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained","wideSize":"900px"}} -->
@@ -1262,7 +1262,7 @@
 		<title><![CDATA[Articles]]></title>
 		<link>https://mikestott.me/articles/</link>
 		<pubDate>Mon, 29 Jan 2024 16:42:09 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=2334</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
