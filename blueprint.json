@@ -1,6 +1,7 @@
 {
     "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "landingPage": "/wp-admin/plugins.php",
+    "landingPage": "/wp-admin/",
+    "phpExtensionBundles": ["openssl"],
     "steps": [
       {
         "step": "login",
@@ -10,14 +11,22 @@
       {
         "step": "installPlugin",
         "pluginZipFile": {
-          "resource": "url",
-          "url": "https://wordpen.io/social-gallery-pro.zip"
+            "resource": "wordpress.org/plugins",
+            "slug": "zero-bs-crm"
+        },
+        "options": {
+            "activate": true
         }
       },
       {
-      "step": "activatePlugin",
-      "pluginName": "Social Gallery Pro",
-      "pluginPath": "/wordpress/wp-content/plugins/social-gallery-pro"
+        "step": "installPlugin",
+        "pluginZipFile": {
+          "resource": "url",
+          "url": "https://github.com/mikestottuk/mikestottme/raw/main/jetpackcrm-ext-sales-dashboard.zip"
+        },
+        "options": {
+          "activate": true
+        }
       }
     ]
   }
