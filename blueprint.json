@@ -1,6 +1,6 @@
 {
     "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "landingPage": "/",
+    "landingPage": "/wp-admin/admin.php?page=sales-dash",
     "steps": [
       {
         "step": "login",
@@ -18,10 +18,13 @@
         }
       },
       {
-        "step": "importFile",
-        "file": {
+        "step": "installPlugin",
+        "pluginZipFile": {
           "resource": "url",
-          "url": "https://raw.githubusercontent.com/mikestottuk/mikestottme/main/example-site.xml"
+          "url": "https://github.com/mikestottuk/mikestottme/blob/main/jetpackcrm-ext-sales-dashboard.zip"
+        },
+        "options": {
+          "activate": true
         }
       }
     ]
