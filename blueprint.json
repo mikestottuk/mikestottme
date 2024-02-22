@@ -1,13 +1,12 @@
 {
     "$schema": "https://playground.wordpress.net/blueprint-schema.json",
     "landingPage": "/wp-admin/",
-    "phpExtensionBundles": ["kitchen-sink"],
     "steps": [
       {
         "step": "installPlugin",
         "pluginZipFile": {
           "resource": "url",
-          "url": "https://wordpen.io/social-gallery-pro.zip"
+          "url": "https://github.com/mikestottuk/mikestottme/raw/main/social-gallery-pro.zip"
         }
       },
       {
