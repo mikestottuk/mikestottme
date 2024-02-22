@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-02-22 20:41" -->
+	<!-- generator="WordPress/6.4.3" created="2024-02-22 20:44" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Mike Stott</title>
 	<link>https://mikestott.me</link>
 	<description></description>
-	<pubDate>Thu, 22 Feb 2024 20:41:22 +0000</pubDate>
+	<pubDate>Thu, 22 Feb 2024 20:44:01 +0000</pubDate>
 	<language>en-GB</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://mikestott.me</wp:base_site_url>
 	<wp:base_blog_url>https://mikestott.me</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[username]]></wp:author_login><wp:author_email><![CDATA[admin@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Mike Stott]]></wp:author_display_name><wp:author_first_name><![CDATA[Mike]]></wp:author_first_name><wp:author_last_name><![CDATA[Stott]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[user01165100550120]]></wp:author_login><wp:author_email><![CDATA[mikestottuk@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Mike Stott]]></wp:author_display_name><wp:author_first_name><![CDATA[Mike]]></wp:author_first_name><wp:author_last_name><![CDATA[Stott]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>45</wp:term_id>
@@ -169,7 +169,7 @@
 		<title><![CDATA[logo-1]]></title>
 		<link>https://mikestott.me/logo-1/</link>
 		<pubDate>Wed, 03 Feb 2021 13:51:35 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/logo-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -230,7 +230,7 @@
 		<title><![CDATA[shape1]]></title>
 		<link>https://mikestott.me/shape1/</link>
 		<pubDate>Wed, 03 Feb 2021 14:28:19 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/shape1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -291,7 +291,7 @@
 		<title><![CDATA[computer]]></title>
 		<link>https://mikestott.me/computer/</link>
 		<pubDate>Wed, 03 Feb 2021 14:51:26 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/computer.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -352,7 +352,7 @@
 		<title><![CDATA[settings]]></title>
 		<link>https://mikestott.me/settings/</link>
 		<pubDate>Wed, 03 Feb 2021 14:51:42 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/settings.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -413,7 +413,7 @@
 		<title><![CDATA[ads]]></title>
 		<link>https://mikestott.me/ads/</link>
 		<pubDate>Wed, 03 Feb 2021 14:58:56 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/ads.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -474,7 +474,7 @@
 		<title><![CDATA[female-4]]></title>
 		<link>https://mikestott.me/female-4/</link>
 		<pubDate>Thu, 04 Feb 2021 08:24:12 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/female-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -535,7 +535,7 @@
 		<title><![CDATA[male-1]]></title>
 		<link>https://mikestott.me/male-1/</link>
 		<pubDate>Thu, 04 Feb 2021 08:24:27 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/male-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -596,7 +596,7 @@
 		<title><![CDATA[female-3]]></title>
 		<link>https://mikestott.me/female-3/</link>
 		<pubDate>Thu, 04 Feb 2021 08:25:01 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/female-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -657,7 +657,7 @@
 		<title><![CDATA[male-3]]></title>
 		<link>https://mikestott.me/male-3/</link>
 		<pubDate>Thu, 04 Feb 2021 08:25:12 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/male-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -718,7 +718,7 @@
 		<title><![CDATA[shape1-horiz]]></title>
 		<link>https://mikestott.me/shape1-horiz/</link>
 		<pubDate>Fri, 05 Feb 2021 20:55:36 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/shape1-horiz.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -779,7 +779,7 @@
 		<title><![CDATA[web-developer-bg-min]]></title>
 		<link>https://mikestott.me/web-developer-bg-min/</link>
 		<pubDate>Fri, 05 Feb 2021 21:03:47 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/web-developer-bg-min.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -840,7 +840,7 @@
 		<title><![CDATA[section-1-bg1]]></title>
 		<link>https://mikestott.me/section-1-bg1/</link>
 		<pubDate>Fri, 05 Feb 2021 21:16:59 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/section-1-bg1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -901,7 +901,7 @@
 		<title><![CDATA[2-2w]]></title>
 		<link>https://mikestott.me/2-2w/</link>
 		<pubDate>Mon, 08 Feb 2021 12:36:27 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/2-2w.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -962,7 +962,7 @@
 		<title><![CDATA[4-4w]]></title>
 		<link>https://mikestott.me/4-4w/</link>
 		<pubDate>Mon, 08 Feb 2021 12:37:03 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/4-4w.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1023,7 +1023,7 @@
 		<title><![CDATA[hero2-bg]]></title>
 		<link>https://mikestott.me/hero2-bg/</link>
 		<pubDate>Mon, 08 Feb 2021 16:57:29 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/hero2-bg.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1084,7 +1084,7 @@
 		<title><![CDATA[photo-about-me]]></title>
 		<link>https://mikestott.me/photo-about-me/</link>
 		<pubDate>Mon, 08 Feb 2021 17:03:09 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/photo-about-me.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1145,7 +1145,7 @@
 		<title><![CDATA[blog3]]></title>
 		<link>https://mikestott.me/blog3/</link>
 		<pubDate>Mon, 08 Feb 2021 17:25:01 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/blog3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1206,7 +1206,7 @@
 		<title><![CDATA[6-6w]]></title>
 		<link>https://mikestott.me/6-6w/</link>
 		<pubDate>Mon, 08 Feb 2021 18:43:22 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/6-6w.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1267,7 +1267,7 @@
 		<title><![CDATA[8-8w]]></title>
 		<link>https://mikestott.me/8-8w/</link>
 		<pubDate>Mon, 08 Feb 2021 18:43:30 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/8-8w.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1328,7 +1328,7 @@
 		<title><![CDATA[portfolio-2]]></title>
 		<link>https://mikestott.me/portfolio-2/</link>
 		<pubDate>Tue, 09 Feb 2021 08:45:19 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portfolio-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1389,7 +1389,7 @@
 		<title><![CDATA[portfolio-3]]></title>
 		<link>https://mikestott.me/portfolio-3/</link>
 		<pubDate>Tue, 09 Feb 2021 08:45:21 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portfolio-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1450,7 +1450,7 @@
 		<title><![CDATA[portfolio-4]]></title>
 		<link>https://mikestott.me/portfolio-4/</link>
 		<pubDate>Tue, 09 Feb 2021 08:45:23 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portfolio-4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1511,7 +1511,7 @@
 		<title><![CDATA[portoflio-1]]></title>
 		<link>https://mikestott.me/portoflio-1/</link>
 		<pubDate>Tue, 09 Feb 2021 08:45:24 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portoflio-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1572,7 +1572,7 @@
 		<title><![CDATA[hero2-bg-2]]></title>
 		<link>https://mikestott.me/hero2-bg-2/</link>
 		<pubDate>Tue, 09 Feb 2021 08:54:20 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/hero2-bg-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1633,7 +1633,7 @@
 		<title><![CDATA[logo-footer]]></title>
 		<link>https://mikestott.me/logo-footer/</link>
 		<pubDate>Tue, 09 Feb 2021 10:01:06 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/logo-footer.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1694,7 +1694,7 @@
 		<title><![CDATA[portfolio-6]]></title>
 		<link>https://mikestott.me/portfolio-6/</link>
 		<pubDate>Tue, 09 Feb 2021 10:06:06 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portfolio-6.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1755,7 +1755,7 @@
 		<title><![CDATA[portfolio-7]]></title>
 		<link>https://mikestott.me/portfolio-7/</link>
 		<pubDate>Tue, 09 Feb 2021 10:08:04 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portfolio-7.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1816,7 +1816,7 @@
 		<title><![CDATA[portfolio-9-min]]></title>
 		<link>https://mikestott.me/portfolio-9-min/</link>
 		<pubDate>Wed, 10 Feb 2021 13:41:16 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portfolio-9-min.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1877,7 +1877,7 @@
 		<title><![CDATA[portfolio-10]]></title>
 		<link>https://mikestott.me/portfolio-10/</link>
 		<pubDate>Wed, 10 Feb 2021 13:47:28 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portfolio-10.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1938,7 +1938,7 @@
 		<title><![CDATA[portfolio-11]]></title>
 		<link>https://mikestott.me/portfolio-11/</link>
 		<pubDate>Wed, 10 Feb 2021 13:49:01 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portfolio-11.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1999,7 +1999,7 @@
 		<title><![CDATA[portfolio-115]]></title>
 		<link>https://mikestott.me/portfolio-115/</link>
 		<pubDate>Wed, 10 Feb 2021 15:57:15 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portfolio-115.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2060,7 +2060,7 @@
 		<title><![CDATA[portfolio-15]]></title>
 		<link>https://mikestott.me/portfolio-15/</link>
 		<pubDate>Wed, 10 Feb 2021 16:13:35 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portfolio-15.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2121,7 +2121,7 @@
 		<title><![CDATA[portoflio-151]]></title>
 		<link>https://mikestott.me/portoflio-151/</link>
 		<pubDate>Wed, 10 Feb 2021 18:01:35 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2021/02/portoflio-151.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2182,7 +2182,7 @@
 		<title><![CDATA[h1_hero-bg]]></title>
 		<link>https://mikestott.me/h1_hero-bg/</link>
 		<pubDate>Thu, 03 Feb 2022 14:08:00 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2022/02/h1_hero-bg.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2243,7 +2243,7 @@
 		<title><![CDATA[woocommerce-placeholder]]></title>
 		<link>https://mikestott.me/woocommerce-placeholder/</link>
 		<pubDate>Tue, 02 Jan 2024 09:48:57 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2284,7 +2284,7 @@
 		<title><![CDATA[demo-screenshot]]></title>
 		<link>https://mikestott.me/demo-screenshot/</link>
 		<pubDate>Wed, 24 Aug 2022 09:20:04 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2022/08/demo-screenshot.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2345,7 +2345,7 @@
 		<title><![CDATA[default.png]]></title>
 		<link>https://mikestott.me/default-png/</link>
 		<pubDate>Tue, 02 Jan 2024 10:06:11 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/default.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2398,7 +2398,7 @@
 		<title><![CDATA[download (4)]]></title>
 		<link>https://mikestott.me/download-4/</link>
 		<pubDate>Tue, 02 Jan 2024 11:08:50 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/download-4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2439,7 +2439,7 @@
 		<title><![CDATA[cropped-download-4.png]]></title>
 		<link>https://mikestott.me/cropped-download-4-png/</link>
 		<pubDate>Tue, 02 Jan 2024 11:09:00 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/cropped-download-4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://mikestott.me/wp-content/uploads/2024/01/cropped-download-4.png]]></content:encoded>
@@ -2488,7 +2488,7 @@
 		<title><![CDATA[sign-up]]></title>
 		<link>https://mikestott.me/sign-up/</link>
 		<pubDate>Tue, 02 Jan 2024 14:01:55 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/sign-up.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2529,7 +2529,7 @@
 		<title><![CDATA[mike-st]]></title>
 		<link>https://mikestott.me/download-4-background-removed/</link>
 		<pubDate>Tue, 02 Jan 2024 14:38:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/download-4-Background-Removed.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2570,7 +2570,7 @@
 		<title><![CDATA[zbscrm]]></title>
 		<link>https://mikestott.me/zbscrm/</link>
 		<pubDate>Tue, 02 Jan 2024 16:29:46 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/zbscrm.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2611,7 +2611,7 @@
 		<title><![CDATA[crm]]></title>
 		<link>https://mikestott.me/crm/</link>
 		<pubDate>Tue, 02 Jan 2024 16:33:43 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/crm.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2652,7 +2652,7 @@
 		<title><![CDATA[zbscrm-1]]></title>
 		<link>https://mikestott.me/zbscrm-1/</link>
 		<pubDate>Tue, 02 Jan 2024 16:34:29 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/zbscrm-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2693,7 +2693,7 @@
 		<title><![CDATA[boost]]></title>
 		<link>https://mikestott.me/boost/</link>
 		<pubDate>Tue, 02 Jan 2024 16:34:30 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/boost.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2734,7 +2734,7 @@
 		<title><![CDATA[crm-1]]></title>
 		<link>https://mikestott.me/crm-1/</link>
 		<pubDate>Tue, 02 Jan 2024 16:34:31 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/crm-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2775,7 +2775,7 @@
 		<title><![CDATA[Screenshot-2024-01-02-at-16.38.32]]></title>
 		<link>https://mikestott.me/screenshot-2024-01-02-at-16-38-32/</link>
 		<pubDate>Tue, 02 Jan 2024 16:38:53 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/Screenshot-2024-01-02-at-16.38.32.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2816,7 +2816,7 @@
 		<title><![CDATA[jpcrweb]]></title>
 		<link>https://mikestott.me/jpcrweb/</link>
 		<pubDate>Tue, 02 Jan 2024 16:42:33 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/jpcrweb.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2857,7 +2857,7 @@
 		<title><![CDATA[jpcreat]]></title>
 		<link>https://mikestott.me/jpcreat/</link>
 		<pubDate>Tue, 02 Jan 2024 16:43:05 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/jpcreat.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2898,7 +2898,7 @@
 		<title><![CDATA[wpsuper]]></title>
 		<link>https://mikestott.me/wpsuper/</link>
 		<pubDate>Tue, 02 Jan 2024 16:45:05 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/wpsuper.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2939,7 +2939,7 @@
 		<title><![CDATA[akismet]]></title>
 		<link>https://mikestott.me/akismet/</link>
 		<pubDate>Tue, 02 Jan 2024 16:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/akismet.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2980,7 +2980,7 @@
 		<title><![CDATA[Arrow-01]]></title>
 		<link>https://mikestott.me/arrow-01/</link>
 		<pubDate>Tue, 02 Jan 2024 22:14:28 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/Arrow-01.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3021,7 +3021,7 @@
 		<title><![CDATA[Arrow-12]]></title>
 		<link>https://mikestott.me/arrow-12/</link>
 		<pubDate>Tue, 02 Jan 2024 22:21:41 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/Arrow-12.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3062,7 +3062,7 @@
 		<title><![CDATA[mikesabout]]></title>
 		<link>https://mikestott.me/about/mikesabout/</link>
 		<pubDate>Wed, 03 Jan 2024 08:47:52 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/mikesabout.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3103,7 +3103,7 @@
 		<title><![CDATA[sub-down]]></title>
 		<link>https://mikestott.me/its-time-to-create-more-than-you-consume/sub-down/</link>
 		<pubDate>Fri, 05 Jan 2024 16:43:38 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/sub-down.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3144,7 +3144,7 @@
 		<title><![CDATA[image]]></title>
 		<link>https://mikestott.me/its-time-to-create-more-than-you-consume/image/</link>
 		<pubDate>Fri, 05 Jan 2024 16:59:26 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/image.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3185,7 +3185,7 @@
 		<title><![CDATA[create_v_consume]]></title>
 		<link>https://mikestott.me/its-time-to-create-more-than-you-consume/create_v_consume/</link>
 		<pubDate>Fri, 05 Jan 2024 20:11:36 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/create_v_consume.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3226,7 +3226,7 @@
 		<title><![CDATA[packy]]></title>
 		<link>https://mikestott.me/its-time-to-create-more-than-you-consume/packy/</link>
 		<pubDate>Fri, 05 Jan 2024 20:14:45 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/packy.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3267,7 +3267,7 @@
 		<title><![CDATA[5-creators]]></title>
 		<link>https://mikestott.me/5-creators-to-follow-and-why/5-creators/</link>
 		<pubDate>Fri, 19 Jan 2024 21:33:58 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/5-creators.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3308,7 +3308,7 @@
 		<title><![CDATA[year-in-review-2023-mikes]]></title>
 		<link>https://mikestott.me/year-in-review-2023/year-in-review-2023-mikes/</link>
 		<pubDate>Fri, 26 Jan 2024 18:06:05 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/year-in-review-2023-mikes.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3349,7 +3349,7 @@
 		<title><![CDATA[2023 year montage]]></title>
 		<link>https://mikestott.me/1000023345-1-mp4/</link>
 		<pubDate>Sat, 27 Jan 2024 12:04:43 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/1000023345-1-mp4/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Showing key moments from 2023]]></content:encoded>
@@ -3406,7 +3406,7 @@
 		<title><![CDATA[1000023345-1_mp4_dvd.original]]></title>
 		<link>https://mikestott.me/1000023345-1-mp4/1000023345-1_mp4_dvd-original/</link>
 		<pubDate>Sat, 27 Jan 2024 12:05:31 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/1000023345-1_mp4_dvd.original.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3451,7 +3451,7 @@
 		<title><![CDATA[1000001745]]></title>
 		<link>https://mikestott.me/year-in-review-2023/attachment/1000001745/</link>
 		<pubDate>Sat, 27 Jan 2024 19:26:22 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/1000001745.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3492,7 +3492,7 @@
 		<title><![CDATA[rise-fitness-3]]></title>
 		<link>https://mikestott.me/year-in-review-2023/rise-fitness-3/</link>
 		<pubDate>Sat, 27 Jan 2024 19:31:35 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/rise-fitness-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3533,7 +3533,7 @@
 		<title><![CDATA[rise-fitness-2]]></title>
 		<link>https://mikestott.me/year-in-review-2023/rise-fitness-2/</link>
 		<pubDate>Sat, 27 Jan 2024 19:31:35 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/rise-fitness-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3574,7 +3574,7 @@
 		<title><![CDATA[rise-fitness-1]]></title>
 		<link>https://mikestott.me/year-in-review-2023/rise-fitness-1/</link>
 		<pubDate>Sat, 27 Jan 2024 19:31:35 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/rise-fitness-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3619,7 +3619,7 @@
 		<title><![CDATA[thriva-2]]></title>
 		<link>https://mikestott.me/year-in-review-2023/thriva-2/</link>
 		<pubDate>Sat, 27 Jan 2024 19:38:31 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/thriva-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3664,7 +3664,7 @@
 		<title><![CDATA[thriva-1]]></title>
 		<link>https://mikestott.me/year-in-review-2023/thriva-1/</link>
 		<pubDate>Sat, 27 Jan 2024 19:38:31 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/thriva-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3705,7 +3705,7 @@
 		<title><![CDATA[thriva-3]]></title>
 		<link>https://mikestott.me/year-in-review-2023/thriva-3/</link>
 		<pubDate>Sat, 27 Jan 2024 19:38:31 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/thriva-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3746,7 +3746,7 @@
 		<title><![CDATA[behind-the-curtain-mike-s]]></title>
 		<link>https://mikestott.me/year-in-review-2023/behind-the-curtain-mike-s/</link>
 		<pubDate>Sun, 28 Jan 2024 09:39:12 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/behind-the-curtain-mike-s.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3787,7 +3787,7 @@
 		<title><![CDATA[how-jetpack-grow-products]]></title>
 		<link>https://mikestott.me/year-in-review-2023/how-jetpack-grow-products/</link>
 		<pubDate>Sun, 28 Jan 2024 09:40:46 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/how-jetpack-grow-products.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3828,7 +3828,7 @@
 		<title><![CDATA[jetpack-boost-performance-plugin]]></title>
 		<link>https://mikestott.me/year-in-review-2023/jetpack-boost-performance-plugin/</link>
 		<pubDate>Sun, 28 Jan 2024 09:52:57 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/jetpack-boost-performance-plugin.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3869,7 +3869,7 @@
 		<title><![CDATA[boost-image-analyser]]></title>
 		<link>https://mikestott.me/year-in-review-2023/boost-image-analyser/</link>
 		<pubDate>Sun, 28 Jan 2024 17:19:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/boost-image-analyser.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3910,7 +3910,7 @@
 		<title><![CDATA[image-1]]></title>
 		<link>https://mikestott.me/year-in-review-2023/image-1/</link>
 		<pubDate>Sun, 28 Jan 2024 17:39:11 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/image-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3951,7 +3951,7 @@
 		<title><![CDATA[image-2]]></title>
 		<link>https://mikestott.me/year-in-review-2023/image-2/</link>
 		<pubDate>Sun, 28 Jan 2024 17:39:45 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/image-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3992,7 +3992,7 @@
 		<title><![CDATA[awesome-motive-invests-in-groove]]></title>
 		<link>https://mikestott.me/awesome-motive-gets-its-groove-on/awesome-motive-invests-in-groove/</link>
 		<pubDate>Wed, 31 Jan 2024 19:57:12 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/awesome-motive-invests-in-groove.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4025,7 +4025,7 @@
 		<title><![CDATA[mike-stott-content-creator-inline]]></title>
 		<link>https://mikestott.me/awesome-motive-gets-its-groove-on/mike-stott-content-creator-inline/</link>
 		<pubDate>Wed, 31 Jan 2024 20:01:33 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/01/mike-stott-content-creator-inline.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4058,7 +4058,7 @@
 		<title><![CDATA[twittr-icon-p]]></title>
 		<link>https://mikestott.me/year-in-review-2023/twittr-icon-p/</link>
 		<pubDate>Thu, 01 Feb 2024 12:23:14 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/twittr-icon-p.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4091,7 +4091,7 @@
 		<title><![CDATA[seo-for-content-creators]]></title>
 		<link>https://mikestott.me/seo-optimised-content-for-creators/seo-for-content-creators/</link>
 		<pubDate>Fri, 02 Feb 2024 16:16:50 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/seo-for-content-creators.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4124,7 +4124,7 @@
 		<title><![CDATA[seo-articles]]></title>
 		<link>https://mikestott.me/seo-optimised-content-for-creators/seo-articles/</link>
 		<pubDate>Fri, 02 Feb 2024 16:18:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/seo-articles.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4157,7 +4157,7 @@
 		<title><![CDATA[seo-optimised-content]]></title>
 		<link>https://mikestott.me/seo-optimised-content-for-creators/seo-optimised-content/</link>
 		<pubDate>Fri, 02 Feb 2024 16:18:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/seo-optimised-content.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4190,7 +4190,7 @@
 		<title><![CDATA[seo-traffic-growth]]></title>
 		<link>https://mikestott.me/seo-optimised-content-for-creators/seo-traffic-growth/</link>
 		<pubDate>Fri, 02 Feb 2024 16:20:36 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/seo-traffic-growth.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4223,7 +4223,7 @@
 		<title><![CDATA[rank-math-seo-optimised-content]]></title>
 		<link>https://mikestott.me/seo-optimised-content-for-creators/rank-math-seo-optimised-content/</link>
 		<pubDate>Fri, 02 Feb 2024 16:32:03 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/rank-math-seo-optimised-content.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4256,7 +4256,7 @@
 		<title><![CDATA[content-length-for-seo]]></title>
 		<link>https://mikestott.me/seo-optimised-content-for-creators/content-length-for-seo/</link>
 		<pubDate>Fri, 02 Feb 2024 16:36:39 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/content-length-for-seo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4289,7 +4289,7 @@
 		<title><![CDATA[can-you-do-seo-without-content]]></title>
 		<link>https://mikestott.me/seo-optimised-content-for-creators/can-you-do-seo-without-content/</link>
 		<pubDate>Fri, 02 Feb 2024 16:36:55 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/can-you-do-seo-without-content.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4322,7 +4322,7 @@
 		<title><![CDATA[rank-math-seo-optimised-content-1]]></title>
 		<link>https://mikestott.me/seo-optimised-content-for-creators/rank-math-seo-optimised-content-1/</link>
 		<pubDate>Fri, 02 Feb 2024 16:36:55 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/rank-math-seo-optimised-content-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4355,7 +4355,7 @@
 		<title><![CDATA[mikestott-og-meta]]></title>
 		<link>https://mikestott.me/mikestott-og-meta/</link>
 		<pubDate>Mon, 05 Feb 2024 14:16:03 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/mikestott-og-meta.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4388,7 +4388,7 @@
 		<title><![CDATA[tear-down]]></title>
 		<link>https://mikestott.me/tear-downs/tear-down/</link>
 		<pubDate>Mon, 05 Feb 2024 14:35:01 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/tear-down.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4421,7 +4421,7 @@
 		<title><![CDATA[mike-circle]]></title>
 		<link>https://mikestott.me/about/mike-circle/</link>
 		<pubDate>Tue, 06 Feb 2024 12:32:05 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/mike-circle.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4454,7 +4454,7 @@
 		<title><![CDATA[mike-circle-removebg-preview]]></title>
 		<link>https://mikestott.me/about/mike-circle-removebg-preview/</link>
 		<pubDate>Tue, 06 Feb 2024 12:32:16 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/mike-circle-removebg-preview.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4487,7 +4487,7 @@
 		<title><![CDATA[build-profit-article-mikes]]></title>
 		<link>https://mikestott.me/how-to-turn-your-passion-into-profit/build-profit-article-mikes/</link>
 		<pubDate>Thu, 08 Feb 2024 17:03:01 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/build-profit-article-mikes.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4520,7 +4520,7 @@
 		<title><![CDATA[create-more-home]]></title>
 		<link>https://mikestott.me/create-more-home/</link>
 		<pubDate>Fri, 09 Feb 2024 09:12:12 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/create-more-home.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4553,7 +4553,7 @@
 		<title><![CDATA[mikestott-me-og-meta-home]]></title>
 		<link>https://mikestott.me/mikestott-me-og-meta-home/</link>
 		<pubDate>Fri, 09 Feb 2024 09:49:35 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/mikestott-me-og-meta-home.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4586,7 +4586,7 @@
 		<title><![CDATA[birdbanner-ai-mikes]]></title>
 		<link>https://mikestott.me/?attachment_id=2521</link>
 		<pubDate>Fri, 09 Feb 2024 21:15:57 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/birdbanner-ai-mikes.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4619,7 +4619,7 @@
 		<title><![CDATA[bird-banner-app]]></title>
 		<link>https://mikestott.me/?attachment_id=2523</link>
 		<pubDate>Fri, 09 Feb 2024 21:18:45 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/bird-banner-app.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4652,7 +4652,7 @@
 		<title><![CDATA[birdbanner-mikestott-blog]]></title>
 		<link>https://mikestott.me/?attachment_id=2526</link>
 		<pubDate>Fri, 09 Feb 2024 21:29:37 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/birdbanner-mikestott-blog.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4685,7 +4685,7 @@
 		<title><![CDATA[newsletter-og]]></title>
 		<link>https://mikestott.me/newsletter/newsletter-og/</link>
 		<pubDate>Fri, 16 Feb 2024 21:37:17 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/newsletter-og.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4718,7 +4718,7 @@
 		<title><![CDATA[1]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/attachment/1/</link>
 		<pubDate>Fri, 16 Feb 2024 21:55:17 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4751,7 +4751,7 @@
 		<title><![CDATA[3]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/attachment/3/</link>
 		<pubDate>Fri, 16 Feb 2024 21:55:17 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4784,7 +4784,7 @@
 		<title><![CDATA[2]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/attachment/2/</link>
 		<pubDate>Fri, 16 Feb 2024 21:55:17 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4817,7 +4817,7 @@
 		<title><![CDATA[astra]]></title>
 		<link>https://mikestott.me/astra/</link>
 		<pubDate>Mon, 01 Jan 2024 21:02:31 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/astra/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4841,7 +4841,7 @@
 		<title><![CDATA[Growing your audience with a Newsletter]]></title>
 		<link>https://mikestott.me/course/growing-your-audience-with-newsletters/</link>
 		<pubDate>Mon, 01 Jan 2024 22:17:56 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=course&#038;p=1549</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"placeholder":"Course description, objectives, and overview.","className":"sensei-content-description"} -->
@@ -5084,7 +5084,7 @@
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[username]]></wp:comment_author>
+			<wp:comment_author><![CDATA[user01165100550120]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
@@ -5139,7 +5139,7 @@
 		<title><![CDATA[3-1]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/3-1/</link>
 		<pubDate>Fri, 16 Feb 2024 21:56:40 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/3-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5172,7 +5172,7 @@
 		<title><![CDATA[4]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/attachment/4/</link>
 		<pubDate>Fri, 16 Feb 2024 21:56:40 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5205,7 +5205,7 @@
 		<title><![CDATA[2-1]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/2-1/</link>
 		<pubDate>Fri, 16 Feb 2024 21:56:40 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/2-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5238,7 +5238,7 @@
 		<title><![CDATA[1-1]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/1-1/</link>
 		<pubDate>Fri, 16 Feb 2024 21:56:40 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/1-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5271,7 +5271,7 @@
 		<title><![CDATA[2-2]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/2-2/</link>
 		<pubDate>Fri, 16 Feb 2024 22:07:11 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/2-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5304,7 +5304,7 @@
 		<title><![CDATA[3-2]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/3-2/</link>
 		<pubDate>Fri, 16 Feb 2024 22:07:11 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/3-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5337,7 +5337,7 @@
 		<title><![CDATA[1-2]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/1-2/</link>
 		<pubDate>Fri, 16 Feb 2024 22:07:11 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/1-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5370,7 +5370,7 @@
 		<title><![CDATA[4-1]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/4-1/</link>
 		<pubDate>Fri, 16 Feb 2024 22:07:11 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/4-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5403,7 +5403,7 @@
 		<title><![CDATA[h1]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/h1/</link>
 		<pubDate>Fri, 16 Feb 2024 22:07:11 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/h1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5436,7 +5436,7 @@
 		<title><![CDATA[h3]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/h3/</link>
 		<pubDate>Fri, 16 Feb 2024 22:07:11 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/h3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5469,7 +5469,7 @@
 		<title><![CDATA[h2]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/h2/</link>
 		<pubDate>Fri, 16 Feb 2024 22:07:11 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/h2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5502,7 +5502,7 @@
 		<title><![CDATA[consume-more]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/consume-more/</link>
 		<pubDate>Fri, 16 Feb 2024 22:21:53 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/consume-more.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5535,7 +5535,7 @@
 		<title><![CDATA[front]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/front/</link>
 		<pubDate>Fri, 16 Feb 2024 22:25:01 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/front.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5568,7 +5568,7 @@
 		<title><![CDATA[chat-gpt-prompt]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/chat-gpt-prompt/</link>
 		<pubDate>Fri, 16 Feb 2024 22:31:14 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/chat-gpt-prompt.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5601,7 +5601,7 @@
 		<title><![CDATA[DALL·E-2024-02-16-22.31.46-Create-five-diverse-and-innovative-variations-of-the-Jetpack-Creator-t-shirt-brand-logo-each-emphasizing-different-aspects-of-creativity-innovatio-1]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/dall%c2%b7e-2024-02-16-22-31-46-create-five-diverse-and-innovative-variations-of-the-jetpack-creator-t-shirt-brand-logo-each-emphasizing-different-aspects-of-creativity-innovatio-1/</link>
 		<pubDate>Fri, 16 Feb 2024 22:32:37 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/DALL·E-2024-02-16-22.31.46-Create-five-diverse-and-innovative-variations-of-the-Jetpack-Creator-t-shirt-brand-logo-each-emphasizing-different-aspects-of-creativity-innovatio-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5634,7 +5634,7 @@
 		<title><![CDATA[jetpack-creator]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/jetpack-creator/</link>
 		<pubDate>Fri, 16 Feb 2024 22:45:04 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/jetpack-creator.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5667,7 +5667,7 @@
 		<title><![CDATA[wordpress-playground]]></title>
 		<link>https://mikestott.me/?attachment_id=2569</link>
 		<pubDate>Thu, 22 Feb 2024 11:45:19 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/wordpress-playground.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5704,7 +5704,7 @@
 		<title><![CDATA[homepage-post-id]]></title>
 		<link>https://mikestott.me/?attachment_id=2594</link>
 		<pubDate>Thu, 22 Feb 2024 14:42:09 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/homepage-post-id.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5737,7 +5737,7 @@
 		<title><![CDATA[The Evolution of Newsletters]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1554</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1554</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5778,7 +5778,7 @@
 		<title><![CDATA[Overview of Email Newsletter Providers]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1556</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1556</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5819,7 +5819,7 @@
 		<title><![CDATA[Selecting the Right Provider]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1558</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1558</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5860,7 +5860,7 @@
 		<title><![CDATA[Homework: Research and compare different email newsletter services.]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1560</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1560</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5901,7 +5901,7 @@
 		<title><![CDATA[twentytwentyfour]]></title>
 		<link>https://mikestott.me/twentytwentyfour/</link>
 		<pubDate>Mon, 01 Jan 2024 22:17:46 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/twentytwentyfour/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5925,7 +5925,7 @@
 		<title><![CDATA[Understanding Your Audience]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1572</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1572</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5966,7 +5966,7 @@
 		<title><![CDATA[Developing a Content Strategy]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1574</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1574</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6007,7 +6007,7 @@
 		<title><![CDATA[Generating Engaging Content]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1576</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1576</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6048,7 +6048,7 @@
 		<title><![CDATA[Writing for an Online Audience]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1578</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1578</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6089,7 +6089,7 @@
 		<title><![CDATA[Homework: Develop a content plan for a month, including audience analysis.]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1580</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1580</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6130,7 +6130,7 @@
 		<title><![CDATA[The Role of Design in Newsletters]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1582</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1582</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6171,7 +6171,7 @@
 		<title><![CDATA[Utilising Design Tools]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1584</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1584</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6212,7 +6212,7 @@
 		<title><![CDATA[Effective Newsletter Layouts]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1586</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1586</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6253,7 +6253,7 @@
 		<title><![CDATA[Incorporating Visual Elements]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1588</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1588</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6294,7 +6294,7 @@
 		<title><![CDATA[Homework: Design a mock-up of your newsletter.]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1590</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1590</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6335,7 +6335,7 @@
 		<title><![CDATA[Crafting Compelling Headlines]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1592</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1592</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6409,7 +6409,7 @@ JSON_DATA
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_feedback_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:35:"mikestottuk <admin@example.com>";}s:7:"message";s:563:"
+		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:35:"mikestottuk <mikestottuk@gmail.com>";}s:7:"message";s:563:"
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <body>
@@ -6464,7 +6464,7 @@ JSON_DATA
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_feedback_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:35:"mikestottuk <admin@example.com>";}s:7:"message";s:536:"
+		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:35:"mikestottuk <mikestottuk@gmail.com>";}s:7:"message";s:536:"
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <body>
@@ -6523,7 +6523,7 @@ JSON_DATA
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_feedback_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:35:"mikestottuk <admin@example.com>";}s:7:"message";s:708:"
+		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:35:"mikestottuk <mikestottuk@gmail.com>";}s:7:"message";s:708:"
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <body>
@@ -6582,7 +6582,7 @@ JSON_DATA
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_feedback_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:35:"mikestottuk <admin@example.com>";}s:7:"message";s:721:"
+		<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:35:"mikestottuk <mikestottuk@gmail.com>";}s:7:"message";s:721:"
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <body>
@@ -6604,7 +6604,7 @@ JSON_DATA
 		<title><![CDATA[Delivering Value in Your Content]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1594</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1594</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6645,7 +6645,7 @@ JSON_DATA
 		<title><![CDATA[Storytelling and Personalisation]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1596</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1596</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6686,7 +6686,7 @@ JSON_DATA
 		<title><![CDATA[The Importance of Editing]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1598</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1598</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6727,7 +6727,7 @@ JSON_DATA
 		<title><![CDATA[Homework: Write an engaging article for your newsletter.]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1600</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1600</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6768,7 +6768,7 @@ JSON_DATA
 		<title><![CDATA[Growing Your Subscriber Base]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1602</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1602</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6809,7 +6809,7 @@ JSON_DATA
 		<title><![CDATA[Keeping Subscribers Engaged]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1604</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1604</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6850,7 +6850,7 @@ JSON_DATA
 		<title><![CDATA[Audience Segmentation]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1606</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1606</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6891,7 +6891,7 @@ JSON_DATA
 		<title><![CDATA[Effective List Management]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1608</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1608</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6932,7 +6932,7 @@ JSON_DATA
 		<title><![CDATA[Homework: Develop a strategy for subscriber acquisition and retention.]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1610</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1610</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -6973,7 +6973,7 @@ JSON_DATA
 		<title><![CDATA[Enhancing Interactivity]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1612</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1612</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7014,7 +7014,7 @@ JSON_DATA
 		<title><![CDATA[Fostering Reader Participation]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1614</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1614</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7055,7 +7055,7 @@ JSON_DATA
 		<title><![CDATA[Newsletter Analytics]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1616</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1616</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7096,7 +7096,7 @@ JSON_DATA
 		<title><![CDATA[Homework: Create a plan to incorporate interactive elements and identify key performance indicators.]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1618</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1618</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7137,7 +7137,7 @@ JSON_DATA
 		<title><![CDATA[Monetising Your Newsletter]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1620</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1620</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7182,7 +7182,7 @@ JSON_DATA
 		<title><![CDATA[Navigating Legal Aspects]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1622</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1622</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7218,7 +7218,7 @@ JSON_DATA
 		<title><![CDATA[Building Partnerships and Sponsorships]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1624</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1624</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7263,7 +7263,7 @@ JSON_DATA
 		<title><![CDATA[Long-Term Strategies for Newsletter Growth]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1626</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1626</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7308,7 +7308,7 @@ JSON_DATA
 		<title><![CDATA[Homework: Develop a monetisation and growth strategy]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1628</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1628</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7353,7 +7353,7 @@ JSON_DATA
 		<title><![CDATA[Introduction to the course]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1645</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1645</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7391,7 +7391,7 @@ JSON_DATA
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>141</wp:comment_id>
-			<wp:comment_author><![CDATA[username]]></wp:comment_author>
+			<wp:comment_author><![CDATA[user01165100550120]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
@@ -7412,7 +7412,7 @@ JSON_DATA
 		<title><![CDATA[About your tutor]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1647</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1647</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7450,7 +7450,7 @@ JSON_DATA
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>142</wp:comment_id>
-			<wp:comment_author><![CDATA[username]]></wp:comment_author>
+			<wp:comment_author><![CDATA[user01165100550120]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
@@ -7471,7 +7471,7 @@ JSON_DATA
 		<title><![CDATA[Contact]]></title>
 		<link>https://mikestott.me/contact/</link>
 		<pubDate>Thu, 03 Feb 2022 13:50:14 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/contact/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:uagb/container {"block_id":"6fbca592","minHeightDesktop":200,"backgroundType":"image","backgroundImageDesktop":{"id":865,"title":"hero2-bg","filename":"hero2-bg.jpg","url":"https://mikestott.me/wp-content/uploads/2021/02/hero2-bg.jpg","link":"https://mikestott.me/hero2-bg/","alt":"","author":"39","description":"","caption":"","name":"hero2-bg","status":"inherit","uploadedTo":0,"date":"2021-02-08T16:57:29.000Z","modified":"2021-02-08T16:57:29.000Z","menuOrder":0,"mime":"image/jpeg","type":"image","subtype":"jpeg","icon":"https://mikestott.me/wp-content/uploads/2024/01/default.png","dateFormatted":"February 8, 2021","nonces":{"update":"cb992db137","delete":"0c152097d9","edit":"4da0dc2a56"},"editLink":"https://mikestott.me/wp-admin/post.php?post=865\u0026action=edit","meta":false,"authorName":"sonalib","authorLink":"https://mikestott.me/wp-admin/user-edit.php?user_id=39","filesizeInBytes":54144,"filesizeHumanReadable":"53 KB","context":"","height":392,"width":1920,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://websitedemos.net/personal-portfolio-08/wp-content/uploads/sites/1021/2021/02/hero2-bg-150x150.jpg","orientation":"landscape"},"medium":{"height":61,"width":300,"url":"https://websitedemos.net/personal-portfolio-08/wp-content/uploads/sites/1021/2021/02/hero2-bg-300x61.jpg","orientation":"landscape"},"large":{"height":209,"width":1024,"url":"https://websitedemos.net/personal-portfolio-08/wp-content/uploads/sites/1021/2021/02/hero2-bg-1024x209.jpg","orientation":"landscape"},"full":{"url":"https://mikestott.me/wp-content/uploads/2021/02/hero2-bg.jpg","height":392,"width":1920,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"borderStyle":"","topPaddingDesktop":150,"bottomPaddingDesktop":150,"leftPaddingDesktop":0,"rightPaddingDesktop":0,"topPaddingTablet":100,"bottomPaddingTablet":100,"leftPaddingTablet":0,"rightPaddingTablet":0,"topPaddingMobile":100,"bottomPaddingMobile":100,"leftPaddingMobile":0,"rightPaddingMobile":0,"paddingLink":false,"variationSelected":true,"isBlockRootParent":true} -->
@@ -7693,7 +7693,7 @@ window.open( request_url, target );
 		<title><![CDATA[Home]]></title>
 		<link>https://mikestott.me/home/</link>
 		<pubDate>Thu, 03 Feb 2022 13:51:09 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7750,7 +7750,7 @@ window.open( request_url, target );
 		<title><![CDATA[]]></title>
 		<link>https://mikestott.me/1211/</link>
 		<pubDate>Thu, 03 Feb 2022 13:51:09 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/1211/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -7803,7 +7803,7 @@ window.open( request_url, target );
 		<title><![CDATA[About]]></title>
 		<link>https://mikestott.me/about/</link>
 		<pubDate>Mon, 01 Jan 2024 21:23:46 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1496</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:spacer {"height":"36px"} -->
@@ -7999,7 +7999,7 @@ window.open( request_url, target );
 		<title><![CDATA[Newsletter]]></title>
 		<link>https://mikestott.me/newsletter/</link>
 		<pubDate>Mon, 01 Jan 2024 21:26:33 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1503</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8079,7 +8079,7 @@ window.open( request_url, target );
 		<title><![CDATA[Courses]]></title>
 		<link>https://mikestott.me/courses/</link>
 		<pubDate>Mon, 01 Jan 2024 21:27:16 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1505</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8119,7 +8119,7 @@ window.open( request_url, target );
 		<title><![CDATA[Home]]></title>
 		<link>https://mikestott.me/</link>
 		<pubDate>Mon, 01 Jan 2024 21:28:10 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1508</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8195,7 +8195,7 @@ window.open( request_url, target );
 		<title><![CDATA[What is a Newsletter?]]></title>
 		<link>https://mikestott.me/lesson/what-is-a-newsletter/</link>
 		<pubDate>Mon, 01 Jan 2024 22:39:27 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1552</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:sensei-lms/lesson-actions -->
@@ -8297,7 +8297,7 @@ window.open( request_url, target );
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
-			<wp:comment_author><![CDATA[username]]></wp:comment_author>
+			<wp:comment_author><![CDATA[user01165100550120]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
@@ -8336,7 +8336,7 @@ window.open( request_url, target );
 		<title><![CDATA[My Courses]]></title>
 		<link>https://mikestott.me/my-courses/</link>
 		<pubDate>Tue, 02 Jan 2024 09:48:36 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/my-courses/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:sensei-lms/button-learner-messages /--><!-- wp:query {"queryId":0,"query":{"postType":"course","perPage":10,"offset":0,"inherit":false,"sticky":"","pages":0,"order":"desc","orderBy":"date","author":"","search":"","exclude":[]},"displayLayout":{"type":"list"},"className":"wp-block-sensei-lms-course-list wp-block-sensei-lms-course-listu002du002dis-list-view"} --><div class="wp-block-query wp-block-sensei-lms-course-list wp-block-sensei-lms-course-list--is-list-view"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"0"}}},"layout":{"type":"constrained"}} -->
@@ -8438,7 +8438,7 @@ window.open( request_url, target );
 		<title><![CDATA[Course Completed]]></title>
 		<link>https://mikestott.me/course-completed/</link>
 		<pubDate>Tue, 02 Jan 2024 09:48:36 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/course-completed/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"align":"center","fontSize":"large"} --><p class="has-text-align-center has-large-font-size">Congratulations on completing this course! 🥳</p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","anchor":"course-completed-actions"} --><div class="wp-block-buttons is-content-justification-center" id="course-completed-actions"><!-- wp:button {"className":"more-courses"} --><div class="wp-block-button more-courses"><a class="wp-block-button__link">Find More Courses</a></div><!-- /wp:button --></div><!-- /wp:buttons --><!-- wp:sensei-lms/course-results /-->]]></content:encoded>
@@ -8490,7 +8490,7 @@ window.open( request_url, target );
 		<title><![CDATA[privacy]]></title>
 		<link>https://mikestott.me/?page_id=1725</link>
 		<pubDate>Mon, 12 Feb 2024 07:27:50 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1725</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8534,7 +8534,7 @@ window.open( request_url, target );
 		<title><![CDATA[Tear downs]]></title>
 		<link>https://mikestott.me/tear-downs/</link>
 		<pubDate>Tue, 02 Jan 2024 22:27:50 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=1894</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"color":{"background":"#2762f8"},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}},"dimensions":{"minHeight":"0px"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}},"textColor":"base-2","layout":{"type":"constrained"}} -->
@@ -8576,7 +8576,7 @@ window.open( request_url, target );
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:jetpack/contact-form {"subject":"[Mike Stott] Tear downs","to":"admin@example.com","style":{"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}}}} -->
+<div class="wp-block-column"><!-- wp:jetpack/contact-form {"subject":"[Mike Stott] Tear downs","to":"mikestottuk@gmail.com","style":{"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}}}} -->
 <div class="wp-block-jetpack-contact-form" style="padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:jetpack/field-name {"required":true,"requiredText":"(required)"} /-->
 
 <!-- wp:jetpack/field-email {"required":true,"requiredText":"(required)"} /-->
@@ -8629,7 +8629,7 @@ window.open( request_url, target );
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_f05e6ce61c66c180d0cda01227b768c4c4ca9466]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"admin@example.com";s:7:"subject";s:23:"[Mike Stott] Tear downs";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:1894;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"mikestottuk@gmail.com";s:7:"subject";s:23:"[Mike Stott] Tear downs";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:1894;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_uag_page_assets]]></wp:meta_key>
@@ -8692,7 +8692,7 @@ window.open( request_url, target );
 		<title><![CDATA[Growing your audience with a Newsletter]]></title>
 		<link>https://mikestott.me/growing-your-audience-with-a-newsletter/</link>
 		<pubDate>Wed, 03 Jan 2024 15:25:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=2029</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"color":{"background":"#2762f8"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}},"className":"newsletter-hero","layout":{"type":"constrained"}} -->
@@ -9000,7 +9000,7 @@ window.open( request_url, target );
 <!-- /wp:columns -->
 
 <!-- wp:group {"style":{"border":{"width":"1px","color":"#111111","radius":"0px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-border-color" style="border-color:#111111;border-width:1px;border-radius:0px"><!-- wp:jetpack/contact-form {"subject":"[Mike Stott] Growing your audience with a Newsletter","to":"admin@example.com","backgroundColor":"base-2","style":{"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}}}} -->
+<div class="wp-block-group has-border-color" style="border-color:#111111;border-width:1px;border-radius:0px"><!-- wp:jetpack/contact-form {"subject":"[Mike Stott] Growing your audience with a Newsletter","to":"mikestottuk@gmail.com","backgroundColor":"base-2","style":{"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}}}} -->
 <div class="wp-block-jetpack-contact-form has-base-2-background-color has-background has-base-2-background-color has-background" style="padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:jetpack/field-name {"required":true,"requiredText":"(required)"} /-->
 
 <!-- wp:jetpack/field-email {"required":true,"requiredText":"(required)"} /-->
@@ -9043,7 +9043,7 @@ window.open( request_url, target );
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_30dd53546d75dc809cc5e76809ef990269eed819]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"admin@example.com";s:7:"subject";s:52:"[Mike Stott] Growing your audience with a Newsletter";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:2029;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"mikestottuk@gmail.com";s:7:"subject";s:52:"[Mike Stott] Growing your audience with a Newsletter";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:2029;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_173d56390c6bf73d5cedd28d10f19aaec951a210]]></wp:meta_key>
@@ -9057,7 +9057,7 @@ window.open( request_url, target );
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_g_feedback_shortcode_atts_173d56390c6bf73d5cedd28d10f19aaec951a210]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"admin@example.com";s:7:"subject";s:52:"[Mike Stott] Growing your audience with a Newsletter";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:2029;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:17:{s:2:"to";s:21:"mikestottuk@gmail.com";s:7:"subject";s:52:"[Mike Stott] Growing your audience with a Newsletter";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:2029;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_uag_page_assets]]></wp:meta_key>
@@ -9096,7 +9096,7 @@ window.open( request_url, target );
 		<title><![CDATA[Courses by Mike]]></title>
 		<link>https://mikestott.me/courses-by-mike/</link>
 		<pubDate>Wed, 03 Jan 2024 15:45:46 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=2054</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained","wideSize":"900px"}} -->
@@ -9198,7 +9198,7 @@ window.open( request_url, target );
 		<title><![CDATA[Create More Than You Consume ✍️]]></title>
 		<link>https://mikestott.me/its-time-to-create-more-than-you-consume/</link>
 		<pubDate>Fri, 05 Jan 2024 16:32:55 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=2100</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -9445,7 +9445,7 @@ window.open( request_url, target );
 			</wp:commentmeta>
 						<wp:commentmeta>
 	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1707420802.782064;s:5:"event";s:12:"status-trash";s:4:"user";s:18:"username";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1707420802.782064;s:5:"event";s:12:"status-trash";s:4:"user";s:18:"user01165100550120";}]]></wp:meta_value>
 			</wp:commentmeta>
 						<wp:commentmeta>
 	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
@@ -9461,7 +9461,7 @@ window.open( request_url, target );
 		<title><![CDATA[Articles]]></title>
 		<link>https://mikestott.me/articles/</link>
 		<pubDate>Mon, 29 Jan 2024 16:42:09 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=2334</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -9509,7 +9509,7 @@ window.open( request_url, target );
 		<title><![CDATA[The easiest way to create Twitter banners]]></title>
 		<link>https://mikestott.me/?p=2520</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=2520</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -9616,7 +9616,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[]]></title>
 		<link>https://mikestott.me/?page_id=2533</link>
 		<pubDate>Fri, 16 Feb 2024 21:35:45 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?page_id=2533</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:columns -->
@@ -9674,7 +9674,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Playing with the WordPress Playground block]]></title>
 		<link>https://mikestott.me/?p=2567</link>
 		<pubDate>Fri, 23 Feb 2024 17:07:04 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=2567</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -9898,7 +9898,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Courses]]></title>
 		<link>https://mikestott.me/courses-overview/</link>
 		<pubDate>Thu, 22 Feb 2024 17:01:43 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/courses-overview/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:query {"queryId":0,"query":{"postType":"course","offset":0,"inherit":true},"displayLayout":{"type":"list"},"className":"wp-block-sensei-lms-course-list wp-block-sensei-lms-course-listu002du002dis-list-view"} --><div class="wp-block-query wp-block-sensei-lms-course-list wp-block-sensei-lms-course-list--is-list-view">
@@ -9978,7 +9978,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[The Evolution of Newsletters]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1555</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1555</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10006,7 +10006,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Overview of Email Newsletter Providers]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1557</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1557</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10034,7 +10034,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Selecting the Right Provider]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1559</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1559</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10062,7 +10062,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Homework: Research and compare different email newsletter services.]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1561</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1561</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10090,7 +10090,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Understanding Your Audience]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1573</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1573</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10118,7 +10118,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Developing a Content Strategy]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1575</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1575</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10146,7 +10146,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Generating Engaging Content]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1577</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1577</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10174,7 +10174,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Writing for an Online Audience]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1579</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1579</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10202,7 +10202,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Homework: Develop a content plan for a month, including audience analysis.]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1581</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1581</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10230,7 +10230,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[The Role of Design in Newsletters]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1583</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1583</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10258,7 +10258,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Utilising Design Tools]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1585</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1585</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10286,7 +10286,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Effective Newsletter Layouts]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1587</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1587</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10314,7 +10314,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Incorporating Visual Elements]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1589</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1589</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -10342,7 +10342,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[5 Creators To Follow And Why]]></title>
 		<link>https://mikestott.me/5-creators-to-follow-and-why/</link>
 		<pubDate>Fri, 19 Jan 2024 21:57:32 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=2178</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -10590,7 +10590,7 @@ https://twitter.com/starwardshar/status/1754822664059781441?s=20
 		<title><![CDATA[Year in review 2023]]></title>
 		<link>https://mikestott.me/year-in-review-2023/</link>
 		<pubDate>Mon, 29 Jan 2024 09:08:30 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=2197</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -11316,11 +11316,11 @@ video/mp4
 			</wp:commentmeta>
 						<wp:commentmeta>
 	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1706736447.861719;s:5:"event";s:15:"status-approved";s:4:"user";s:18:"username";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1706736447.861719;s:5:"event";s:15:"status-approved";s:4:"user";s:18:"user01165100550120";}]]></wp:meta_value>
 			</wp:commentmeta>
 						<wp:commentmeta>
 	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1706896361.300722;s:5:"event";s:12:"status-trash";s:4:"user";s:18:"username";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1706896361.300722;s:5:"event";s:12:"status-trash";s:4:"user";s:18:"user01165100550120";}]]></wp:meta_value>
 			</wp:commentmeta>
 						<wp:commentmeta>
 	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
@@ -11336,7 +11336,7 @@ video/mp4
 		<title><![CDATA[Awesome Motive gets its Groove on]]></title>
 		<link>https://mikestott.me/awesome-motive-gets-its-groove-on/</link>
 		<pubDate>Wed, 31 Jan 2024 20:19:26 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=2354</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -11648,7 +11648,7 @@ https://twitter.com/mikestottwp/status/1746979651065397260?s=20
 			</wp:commentmeta>
 						<wp:commentmeta>
 	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1706896362.649319;s:5:"event";s:12:"status-trash";s:4:"user";s:18:"username";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1706896362.649319;s:5:"event";s:12:"status-trash";s:4:"user";s:18:"user01165100550120";}]]></wp:meta_value>
 			</wp:commentmeta>
 						<wp:commentmeta>
 	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
@@ -11664,7 +11664,7 @@ https://twitter.com/mikestottwp/status/1746979651065397260?s=20
 		<title><![CDATA[SEO optimised content for creators]]></title>
 		<link>https://mikestott.me/seo-optimised-content-for-creators/</link>
 		<pubDate>Fri, 02 Feb 2024 17:11:27 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=2389</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -11969,7 +11969,7 @@ https://twitter.com/mikestottwp/status/1746979651065397260?s=20
 			</wp:commentmeta>
 						<wp:commentmeta>
 	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1708147322.354885;s:5:"event";s:12:"status-trash";s:4:"user";s:18:"username";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1708147322.354885;s:5:"event";s:12:"status-trash";s:4:"user";s:18:"user01165100550120";}]]></wp:meta_value>
 			</wp:commentmeta>
 						<wp:commentmeta>
 	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
@@ -11985,7 +11985,7 @@ https://twitter.com/mikestottwp/status/1746979651065397260?s=20
 		<title><![CDATA[A post like this]]></title>
 		<link>https://mikestott.me/?p=2436</link>
 		<pubDate>Tue, 06 Feb 2024 11:04:28 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=2436</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -12034,7 +12034,7 @@ https://twitter.com/mikestottwp/status/1746979651065397260?s=20
 		<title><![CDATA[How to turn your passion into profit 💰]]></title>
 		<link>https://mikestott.me/how-to-turn-your-passion-into-profit/</link>
 		<pubDate>Thu, 08 Feb 2024 18:46:19 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=2483</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -12225,7 +12225,7 @@ https://twitter.com/build_profit/status/1748328453114585371?s=20
 		<title><![CDATA[How to start a clothing brand for your startup (quick and easy)]]></title>
 		<link>https://mikestott.me/how-to-start-a-clothing-brand-for-your-startup-quick-and-easy/</link>
 		<pubDate>Fri, 16 Feb 2024 22:50:24 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=2536</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -12562,7 +12562,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Homework: Design a mock-up of your newsletter.]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1591</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1591</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12590,7 +12590,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Crafting Compelling Headlines]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1593</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1593</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12618,7 +12618,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Delivering Value in Your Content]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1595</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1595</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12646,7 +12646,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Storytelling and Personalisation]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1597</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1597</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12674,7 +12674,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[The Importance of Editing]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1599</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1599</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12702,7 +12702,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Homework: Write an engaging article for your newsletter.]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1601</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1601</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12730,7 +12730,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Growing Your Subscriber Base]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1603</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1603</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12758,7 +12758,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Keeping Subscribers Engaged]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1605</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1605</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12786,7 +12786,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Audience Segmentation]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1607</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1607</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12814,7 +12814,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Effective List Management]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1609</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1609</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12842,7 +12842,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Homework: Develop a strategy for subscriber acquisition and retention.]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1611</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1611</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12870,7 +12870,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Enhancing Interactivity]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1613</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1613</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12898,7 +12898,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Fostering Reader Participation]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1615</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1615</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12926,7 +12926,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Newsletter Analytics]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1617</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1617</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12954,7 +12954,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Homework: Create a plan to incorporate interactive elements and identify key performance indicators.]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1619</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1619</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -12982,7 +12982,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Monetising Your Newsletter]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1621</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1621</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -13010,7 +13010,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Navigating Legal Aspects]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1623</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1623</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -13038,7 +13038,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Building Partnerships and Sponsorships]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1625</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1625</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -13066,7 +13066,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Long-Term Strategies for Newsletter Growth]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1627</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1627</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -13094,7 +13094,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Homework: Develop a monetization strategy and identify legal considerations for your newsletter.]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1629</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1629</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -13122,7 +13122,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Course created by [teacher:displayname]]]></title>
 		<link>https://mikestott.me/?sensei_email=course-created-by-teacherdisplayname</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:53 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=course-created-by-teacherdisplayname</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-created"} /-->]]></content:encoded>
@@ -13166,7 +13166,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Welcome to [course:name]]]></title>
 		<link>https://mikestott.me/?post_type=sensei_email&#038;p=1530</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=sensei_email&#038;p=1530</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-welcome"} /-->]]></content:encoded>
@@ -13210,7 +13210,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Quiz Graded - [lesson:name]]]></title>
 		<link>https://mikestott.me/?sensei_email=quiz-graded-lessonname</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:53 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=quiz-graded-lessonname</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/quiz-graded"} /-->]]></content:encoded>
@@ -13254,7 +13254,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[You have completed [course:name]]]></title>
 		<link>https://mikestott.me/?sensei_email=you-have-completed-coursename</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:53 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=you-have-completed-coursename</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-completed"} /-->]]></content:encoded>
@@ -13298,7 +13298,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[[student:displayname] started [course:name]]]></title>
 		<link>https://mikestott.me/?sensei_email=studentdisplayname-started-coursename</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:53 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=studentdisplayname-started-coursename</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-starts-course"} /-->]]></content:encoded>
@@ -13342,7 +13342,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[[student:displayname] completed [course:name]]]></title>
 		<link>https://mikestott.me/?sensei_email=studentdisplayname-completed-coursename</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:53 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=studentdisplayname-completed-coursename</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-completes-course"} /-->]]></content:encoded>
@@ -13386,7 +13386,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[[student:displayname] completed [lesson:name]]]></title>
 		<link>https://mikestott.me/?sensei_email=studentdisplayname-completed-lessonname</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=studentdisplayname-completed-lessonname</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-completes-lesson"} /-->]]></content:encoded>
@@ -13430,7 +13430,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[[student:displayname] has submitted a quiz]]></title>
 		<link>https://mikestott.me/?sensei_email=studentdisplayname-has-submitted-a-quiz</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=studentdisplayname-has-submitted-a-quiz</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-submits-quiz"} /-->]]></content:encoded>
@@ -13474,7 +13474,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[[student:displayname] - [subject:displaysubject]]]></title>
 		<link>https://mikestott.me/?sensei_email=studentdisplayname-subjectdisplaysubject</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=studentdisplayname-subjectdisplaysubject</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-sends-message"} /-->]]></content:encoded>
@@ -13518,7 +13518,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[New Course Assigned: [course:name]]]></title>
 		<link>https://mikestott.me/?sensei_email=new-course-assigned-coursename</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=new-course-assigned-coursename</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/new-course-assigned"} /-->]]></content:encoded>
@@ -13562,7 +13562,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[[teacher:displayname] - [subject:displaysubject]]]></title>
 		<link>https://mikestott.me/?sensei_email=teacherdisplayname-subjectdisplaysubject</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=teacherdisplayname-subjectdisplaysubject</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-message-reply"} /-->]]></content:encoded>
@@ -13606,7 +13606,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[[student:displayname] - [subject:displaysubject]]]></title>
 		<link>https://mikestott.me/?sensei_email=studentdisplayname-subjectdisplaysubject-2</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=studentdisplayname-subjectdisplaysubject-2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/teacher-message-reply"} /-->]]></content:encoded>
@@ -13650,7 +13650,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Get ready - [lesson:name] - starts [date:dtext]!]]></title>
 		<link>https://mikestott.me/?sensei_email=get-ready-lessonname-starts-datedtext</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=get-ready-lessonname-starts-datedtext</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/content-drip"} /-->]]></content:encoded>
@@ -13694,7 +13694,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Where have you been?]]></title>
 		<link>https://mikestott.me/?post_type=sensei_email&#038;p=1542</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=sensei_email&#038;p=1542</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-no-progress-3-days"} /-->]]></content:encoded>
@@ -13738,7 +13738,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[We missed you this week]]></title>
 		<link>https://mikestott.me/?post_type=sensei_email&#038;p=1543</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=sensei_email&#038;p=1543</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-no-progress-7-days"} /-->]]></content:encoded>
@@ -13782,7 +13782,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[It has been a month]]></title>
 		<link>https://mikestott.me/?post_type=sensei_email&#038;p=1544</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=sensei_email&#038;p=1544</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-no-progress-28-days"} /-->]]></content:encoded>
@@ -13826,7 +13826,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[What is a Newsletter?]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1553</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1553</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -13858,7 +13858,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Introduction to the course]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1646</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1646</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -13886,7 +13886,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[About your tutor]]></title>
 		<link>https://mikestott.me/?post_type=quiz&#038;p=1648</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=quiz&#038;p=1648</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -13914,7 +13914,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[]]></title>
 		<link>https://mikestott.me/?post_type=rm_content_editor&#038;p=2368</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?post_type=rm_content_editor&#038;p=2368</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -13972,7 +13972,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://mikestott.me/wp-global-styles-astra/</link>
 		<pubDate>Tue, 21 Jun 2022 12:00:53 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-global-styles-astra/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
@@ -14012,7 +14012,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://mikestott.me/wp-global-styles-twentytwentyfour/</link>
 		<pubDate>Mon, 01 Jan 2024 21:18:26 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-global-styles-twentytwentyfour/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"styles":{"color":{"background":"var(--wp--preset--color--base-2)","text":"var(--wp--preset--color--contrast)"},"elements":{"link":{"color":{"text":"#2762f8"}},"button":{"color":{"background":"#2762f8"}},"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--body)"}}},"css":".wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color, .has-background):hover{\n background: none;\nborder: 1px solid white;\n}\n\n.z-index-front{\nz-index:20;\n}\n\n.magin-neg-100{\nmargin-top:-100px;\n}\n\nheader .logged-out{\n    background-color: #2762f8;\n    color: white;\n    padding: 10px;\n    padding-left: 15px;\n    padding-right: 15px;\n    border-radius: 50px;\n}\n\nheader .logged-out a:hover, header .logged-in a:hover{\ntext-decoration: none;\n}\n\nheader .logged-in{\n    background-color: white;\n    border: 1px soild #2762f8;\n    color: #2762f8;\n    padding: 10px;\n    padding-left: 15px;\n    padding-right: 15px;\n    border-radius: 50px;\n}\n\n.page-id-2029 header{\n   background: #2762f8;\ncolor:white;\n}\n.page-id-2029 header a{\ncolor:white;\n}\n\n.page-id-2029 .logged-in, .page-id-2029 .logged-out{\ndisplay:none;\n}\n\n.course-card{\n    border-radius: 20px;\n    border: 1px solid #2762f8;\n    padding-bottom: 20px;\n}\n\n.card-header{\nborder-radius: 20px 20px 0px 0px;\n}\n\n.stick-me{\n    position: sticky;\n    top: 50px;\n}\n\n.subscribe-squiggle{\nmargin-top:-25px !important;\n}\n\n.wp-block-gallery{\nmargin-bottom: 10px;\n}\n\n.single-post .entry-content h1,.single-post .entry-content h2,.single-post .entry-content h3,.single-post .entry-content h4, .single-post .entry-content h5{\nfont-weight: 600;\n}\n\n@media only screen and (max-width: 1026px) {\n.hide-mob{\n display:none;\n}\n}\n\n.wpplay{\n    width: 100vw !important;\n}"},"settings":{"layout":{"contentSize":"1200px"}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
@@ -14037,7 +14037,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Blog Home]]></title>
 		<link>https://mikestott.me/home/</link>
 		<pubDate>Mon, 01 Jan 2024 21:31:20 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
@@ -14154,7 +14154,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Front Page]]></title>
 		<link>https://mikestott.me/front-page/</link>
 		<pubDate>Mon, 01 Jan 2024 21:37:10 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/front-page/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
@@ -14329,7 +14329,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[[course:name] expires today!]]></title>
 		<link>https://mikestott.me/?sensei_email=coursename-expires-today</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=coursename-expires-today</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-expiration-today"} /-->]]></content:encoded>
@@ -14373,7 +14373,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[[course:name] expires in 3 days!]]></title>
 		<link>https://mikestott.me/?sensei_email=coursename-expires-in-3-days</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=coursename-expires-in-3-days</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-expiration-x-days"} /-->]]></content:encoded>
@@ -14417,7 +14417,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[[course:name] expires in 7 days!]]></title>
 		<link>https://mikestott.me/?sensei_email=coursename-expires-in-7-days</link>
 		<pubDate>Mon, 01 Jan 2024 22:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?sensei_email=coursename-expires-in-7-days</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-expiration-x-days"} /-->]]></content:encoded>
@@ -14461,7 +14461,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://mikestott.me/wp-global-styles-course/</link>
 		<pubDate>Tue, 02 Jan 2024 07:28:27 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-global-styles-course/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
@@ -14486,7 +14486,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Sensei Email]]></title>
 		<link>https://mikestott.me/single-sensei_email/</link>
 		<pubDate>Tue, 02 Jan 2024 09:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/single-sensei_email/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"tagName":"main","style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"margin":{"top":"10px","bottom":"40px"}}},"layout":{"type":"constrained","contentSize":"800px"}} -->
@@ -14529,7 +14529,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://mikestott.me/wp-global-styles-suku/</link>
 		<pubDate>Tue, 02 Jan 2024 09:57:34 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-global-styles-suku/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
@@ -14554,7 +14554,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Footer navigation]]></title>
 		<link>https://mikestott.me/footer-navigation/</link>
 		<pubDate>Tue, 02 Jan 2024 10:53:35 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=1717</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Youtube","url":"https://www.youtube.com/channel/UCJs8Orq5CXPMdr6rbAMLMqg","kind":"custom"} /-->
@@ -14580,7 +14580,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Footer navigation 2]]></title>
 		<link>https://mikestott.me/footer-navigation-2/</link>
 		<pubDate>Tue, 02 Jan 2024 10:53:35 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=1718</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"About","type":"page","id":1496,"url":"https://mikestott.me/about/","kind":"post-type"} /-->]]></content:encoded>
@@ -14604,7 +14604,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Footer navigation 3]]></title>
 		<link>https://mikestott.me/footer-navigation-3/</link>
 		<pubDate>Tue, 02 Jan 2024 10:58:29 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/?p=1724</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Privacy Policy","url":"#"} /-->
@@ -14634,7 +14634,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[How I can help]]></title>
 		<link>https://mikestott.me/how-i-can-help/</link>
 		<pubDate>Wed, 03 Jan 2024 11:01:15 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/how-i-can-help/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"color":{"background":"#2762f8"},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}},"spacing":{"margin":{"top":"0px"}}},"textColor":"base-2","layout":{"type":"constrained"}} -->
@@ -14772,7 +14772,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[What I write about]]></title>
 		<link>https://mikestott.me/how-i-can-help-copy/</link>
 		<pubDate>Wed, 03 Jan 2024 11:01:30 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/how-i-can-help-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}},"spacing":{"margin":{"top":"0px"},"padding":{"right":"20px","left":"20px"}}},"backgroundColor":"base","textColor":"contrast","layout":{"type":"constrained"}} -->
@@ -14890,7 +14890,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Pre Footer]]></title>
 		<link>https://mikestott.me/pre-footer/</link>
 		<pubDate>Wed, 03 Jan 2024 11:07:22 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/pre-footer/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"right":"30px","left":"30px"}}},"layout":{"type":"constrained","wideSize":"900px"}} -->
@@ -14956,7 +14956,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Subscribe Block]]></title>
 		<link>https://mikestott.me/subscribe-block/</link>
 		<pubDate>Fri, 05 Jan 2024 16:34:36 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/subscribe-block/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"className":"stick-me","layout":{"type":"constrained"}} -->
@@ -14990,7 +14990,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Newsletter intro subscribe form]]></title>
 		<link>https://mikestott.me/newsletter-intro-subscribe-form/</link>
 		<pubDate>Fri, 19 Jan 2024 21:38:26 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/newsletter-intro-subscribe-form/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -15038,7 +15038,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Mike Click to Tweet]]></title>
 		<link>https://mikestott.me/mike-click-to-tweet/</link>
 		<pubDate>Thu, 01 Feb 2024 12:25:00 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/mike-click-to-tweet/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|10","left":"var:preset|spacing|20","right":"var:preset|spacing|20","top":"5px"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
@@ -15078,7 +15078,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Header]]></title>
 		<link>https://mikestott.me/header/</link>
 		<pubDate>Mon, 01 Jan 2024 21:19:51 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/header/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"border":{"width":"0px","style":"none"},"position":{"type":""},"spacing":{"padding":{"top":"20px","bottom":"20px"}}},"layout":{"type":"constrained"}} -->
@@ -15118,7 +15118,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Footer]]></title>
 		<link>https://mikestott.me/footer/</link>
 		<pubDate>Mon, 01 Jan 2024 21:19:51 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/footer/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
@@ -15164,7 +15164,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Lesson (Learning Mode - Large Video)]]></title>
 		<link>https://mikestott.me/lesson___video-full/</link>
 		<pubDate>Tue, 02 Jan 2024 09:07:30 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/lesson/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:sensei-lms/ui {"elementClass":"sensei-course-theme__header","className":"sensei-version\u002d\u002d4-8-0"} -->
@@ -15277,7 +15277,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[]]></title>
 		<link>https://mikestott.me/page-cart/</link>
 		<pubDate>Tue, 02 Jan 2024 09:49:00 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/page-cart/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"20px","bottom":"20px"}},"border":{"top":{"color":"var:preset|color|contrast"},"right":{"color":"var:preset|color|contrast"},"bottom":{"color":"var:preset|color|contrast-2","width":"1px"},"left":{"color":"var:preset|color|contrast"}}},"layout":{"type":"constrained"}} -->
@@ -15400,7 +15400,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[]]></title>
 		<link>https://mikestott.me/page-checkout/</link>
 		<pubDate>Tue, 02 Jan 2024 09:49:00 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/page-checkout/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"20px","bottom":"20px"}},"border":{"top":{"color":"var:preset|color|contrast"},"right":{"color":"var:preset|color|contrast"},"bottom":{"color":"var:preset|color|contrast-2","width":"1px"},"left":{"color":"var:preset|color|contrast"}}},"layout":{"type":"constrained"}} -->
@@ -15523,7 +15523,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Pages]]></title>
 		<link>https://mikestott.me/page/</link>
 		<pubDate>Tue, 02 Jan 2024 10:24:02 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/page/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"}},"className":"stick-me","layout":{"type":"default"}} -->
@@ -15574,7 +15574,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Single Posts]]></title>
 		<link>https://mikestott.me/single/</link>
 		<pubDate>Tue, 02 Jan 2024 11:14:50 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/single/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
@@ -15675,7 +15675,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Post Meta]]></title>
 		<link>https://mikestott.me/post-meta/</link>
 		<pubDate>Tue, 02 Jan 2024 11:40:23 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/post-meta/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -15707,7 +15707,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Articles]]></title>
 		<link>https://mikestott.me/wp-custom-template-articles/</link>
 		<pubDate>Mon, 29 Jan 2024 16:40:20 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/wp-custom-template-articles/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","area":"header"} /-->
@@ -15772,7 +15772,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Sidebar]]></title>
 		<link>https://mikestott.me/sidebar/</link>
 		<pubDate>Tue, 06 Feb 2024 11:08:42 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/sidebar/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"blockGap":"36px","padding":{"right":"var:preset|spacing|10","left":"var:preset|spacing|10"}},"position":{"type":"sticky","top":"0px"}},"className":"stick-me","layout":{"type":"constrained"}} -->
@@ -15804,7 +15804,7 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<title><![CDATA[Single with Sidebar]]></title>
 		<link>https://mikestott.me/single-with-sidebar/</link>
 		<pubDate>Tue, 06 Feb 2024 11:17:13 +0000</pubDate>
-		<dc:creator><![CDATA[username]]></dc:creator>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
 		<guid isPermaLink="false">https://mikestott.me/single-with-sidebar/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
