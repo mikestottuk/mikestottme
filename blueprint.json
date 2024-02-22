@@ -1,7 +1,7 @@
 {
     "$schema": "https://playground.wordpress.net/blueprint-schema.json",
     "landingPage": "/wp-admin/",
-    "phpExtensionBundles": ["openssl"],
+    "phpExtensionBundles": ["kitchen-sink"],
     "steps": [
       {
         "step": "login",
