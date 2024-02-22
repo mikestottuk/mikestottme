@@ -3,16 +3,16 @@
     "landingPage": "/wp-admin/",
     "steps": [
       {
+        "step": "login",
+        "username": "admin",
+        "password": "password"
+      },
+      {
         "step": "installPlugin",
         "pluginZipFile": {
           "resource": "url",
           "url": "https://github.com/mikestottuk/mikestottme/raw/main/social-gallery-pro.zip"
         }
-      },
-      {
-        "step": "login",
-        "username": "admin",
-        "password": "password"
       }
     ]
   }
