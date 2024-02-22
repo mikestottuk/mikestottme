@@ -1,6 +1,6 @@
 {
     "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "landingPage": "/wp-admin/",
+    "landingPage": "/",
     "steps": [
       {
         "step": "login",
@@ -22,9 +22,6 @@
         "pluginZipFile": {
           "resource": "url",
           "url": "https://github.com/mikestottuk/mikestottme/raw/main/jetpackcrm-ext-sales-dashboard.zip"
-        },
-        "options": {
-          "activate": true
         }
       }
     ]
