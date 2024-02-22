@@ -9,10 +9,12 @@
       },
       {
         "step": "installPlugin",
+        "pluginName": "Social Gallery Pro",
         "pluginZipFile": {
           "resource": "url",
           "url": "https://github.com/mikestottuk/mikestottme/raw/main/social-gallery-pro.zip"
         }
+        
       }
     ]
   }
