@@ -16,13 +16,6 @@
         "options": {
             "activate": true
         }
-      },
-      {
-        "step": "installPlugin",
-        "pluginZipFile": {
-          "resource": "url",
-          "url": "https://github.com/mikestottuk/mikestottme/raw/main/jetpackcrm-ext-sales-dashboard.zip"
-        }
       }
     ]
   }
