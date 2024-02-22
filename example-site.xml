@@ -5662,45 +5662,8 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:1024;s:4:"file";s:28:"2024/02/jetpack-creator.webp";s:8:"filesize";i:430498;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:28:"jetpack-creator-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:20948;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"jetpack-creator-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6284;}s:12:"medium_large";a:5:{s:4:"file";s:28:"jetpack-creator-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:124472;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[wordpress-playground]]></title>
-		<link>https://mikestott.me/?attachment_id=2569</link>
-		<pubDate>Thu, 22 Feb 2024 11:45:19 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/wp-content/uploads/2024/02/wordpress-playground.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2569</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-22 11:45:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-22 11:45:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-22 11:45:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-22 11:45:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wordpress-playground]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2567</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://mikestott.me/wp-content/uploads/2024/02/wordpress-playground.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/02/wordpress-playground.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1792;s:6:"height";i:1024;s:4:"file";s:33:"2024/02/wordpress-playground.webp";s:8:"filesize";i:482098;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:33:"wordpress-playground-300x171.webp";s:5:"width";i:300;s:6:"height";i:171;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:16428;}s:5:"large";a:5:{s:4:"file";s:34:"wordpress-playground-1024x585.webp";s:5:"width";i:1024;s:6:"height";i:585;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:110596;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"wordpress-playground-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8796;}s:12:"medium_large";a:5:{s:4:"file";s:33:"wordpress-playground-768x439.webp";s:5:"width";i:768;s:6:"height";i:439;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:71558;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"wordpress-playground-1536x878.webp";s:5:"width";i:1536;s:6:"height";i:878;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:204252;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[WordPress Playground Block]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
+	</item>
+	<item>
 		<title><![CDATA[homepage-post-id]]></title>
 		<link>https://mikestott.me/?attachment_id=2594</link>
 		<pubDate>Thu, 22 Feb 2024 14:42:09 +0000</pubDate>
@@ -5732,172 +5695,8 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1184;s:6:"height";i:540;s:4:"file";s:28:"2024/02/homepage-post-id.png";s:8:"filesize";i:54273;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:28:"homepage-post-id-300x137.png";s:5:"width";i:300;s:6:"height";i:137;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:23227;}s:5:"large";a:5:{s:4:"file";s:29:"homepage-post-id-1024x467.png";s:5:"width";i:1024;s:6:"height";i:467;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:81716;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"homepage-post-id-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8877;}s:12:"medium_large";a:5:{s:4:"file";s:28:"homepage-post-id-768x350.png";s:5:"width";i:768;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:77353;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[The Evolution of Newsletters]]></title>
-		<link>https://mikestott.me/?post_type=lesson&#038;p=1554</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1554</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1554</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-01 22:16:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-01 22:16:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[lesson]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="module" nicename="day-1-introduction-to-newsletters"><![CDATA[Day 1: Introduction to Newsletters]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_lesson_course]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1549]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_new_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_lesson_quiz]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1555]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_order_module_10]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Overview of Email Newsletter Providers]]></title>
-		<link>https://mikestott.me/?post_type=lesson&#038;p=1556</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1556</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1556</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-01 22:16:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-01 22:16:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[lesson]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="module" nicename="day-1-introduction-to-newsletters"><![CDATA[Day 1: Introduction to Newsletters]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_lesson_course]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1549]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_new_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_lesson_quiz]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1557]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_order_module_10]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Selecting the Right Provider]]></title>
-		<link>https://mikestott.me/?post_type=lesson&#038;p=1558</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1558</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1558</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-01 22:16:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-01 22:16:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[lesson]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="module" nicename="day-1-introduction-to-newsletters"><![CDATA[Day 1: Introduction to Newsletters]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_lesson_course]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1549]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_new_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_lesson_quiz]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1559]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_order_module_10]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Homework: Research and compare different email newsletter services.]]></title>
-		<link>https://mikestott.me/?post_type=lesson&#038;p=1560</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/?post_type=lesson&#038;p=1560</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1560</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-01 22:16:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-01 22:16:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[lesson]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="module" nicename="day-1-introduction-to-newsletters"><![CDATA[Day 1: Introduction to Newsletters]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_lesson_course]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1549]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_new_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_lesson_quiz]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1561]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_order_module_10]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
+	</item>
+	<item>
 		<title><![CDATA[twentytwentyfour]]></title>
 		<link>https://mikestott.me/twentytwentyfour/</link>
 		<pubDate>Mon, 01 Jan 2024 22:17:46 +0000</pubDate>
@@ -5961,8 +5760,8 @@
 		<wp:meta_key><![CDATA[_order_module_11]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
+	</item>
+	<item>
 		<title><![CDATA[Developing a Content Strategy]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1574</link>
 		<pubDate></pubDate>
@@ -6002,8 +5801,8 @@
 		<wp:meta_key><![CDATA[_order_module_11]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
+	</item>
+	<item>
 		<title><![CDATA[Generating Engaging Content]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1576</link>
 		<pubDate></pubDate>
@@ -6043,8 +5842,8 @@
 		<wp:meta_key><![CDATA[_order_module_11]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
+	</item>
+	<item>
 		<title><![CDATA[Writing for an Online Audience]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1578</link>
 		<pubDate></pubDate>
@@ -6084,8 +5883,8 @@
 		<wp:meta_key><![CDATA[_order_module_11]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
+	</item>
+	<item>
 		<title><![CDATA[Homework: Develop a content plan for a month, including audience analysis.]]></title>
 		<link>https://mikestott.me/?post_type=lesson&#038;p=1580</link>
 		<pubDate></pubDate>
