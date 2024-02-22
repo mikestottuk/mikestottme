@@ -11,7 +11,7 @@
         "step": "installPlugin",
         "pluginZipFile": {
             "resource": "wordpress.org/plugins",
-            "slug": "coblocks"
+            "slug": "zero-bs-crm"
         },
         "options": {
             "activate": true
