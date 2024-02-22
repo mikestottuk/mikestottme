@@ -1,6 +1,6 @@
 {
     "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "landingPage": "/wp-admin/",
+    "landingPage": "/wp-admin/plugins.php",
     "steps": [
       {
         "step": "login",
@@ -9,12 +9,15 @@
       },
       {
         "step": "installPlugin",
-        "pluginName": "Social Gallery Pro",
         "pluginZipFile": {
           "resource": "url",
           "url": "https://github.com/mikestottuk/mikestottme/raw/main/social-gallery-pro.zip"
         }
-        
+      },
+      {
+      "step": "activatePlugin",
+      "pluginName": "Social Gallery Pro",
+      "pluginPath": "/wordpress/wp-content/plugins/social-gallery-pro"
       }
     ]
   }
