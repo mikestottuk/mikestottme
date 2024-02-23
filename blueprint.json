@@ -13,10 +13,6 @@
         "step": "login",
         "username": "admin",
         "password": "password"
-      },
-      {
-        "step": "runPHP",
-        "code": "<?php require '/wordpress/wp-load.php'; $wpdb->query('delete from wp_posts');"
       }
-    
+    ]
   }
