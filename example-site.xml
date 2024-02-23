@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-02-23 07:34" -->
+	<!-- generator="WordPress/6.4.3" created="2024-02-23 22:08" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Funky Site</title>
 	<link>http://localhost:10104</link>
 	<description></description>
-	<pubDate>Fri, 23 Feb 2024 07:34:25 +0000</pubDate>
+	<pubDate>Fri, 23 Feb 2024 22:08:51 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost:10104</wp:base_site_url>
@@ -82,11 +82,137 @@
 		<wp:tag_name><![CDATA[year in review]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
+		<wp:term_id>3</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[articles]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Articles]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[course]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[course]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[creators]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[creators]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>15</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[footer]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>14</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[header]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[header]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[investment]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[investment]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[newsletter]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Newsletter]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[newsletter]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[newsletter]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[primary-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>16</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[sensei-course-theme]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[sensei-course-theme]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>12</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[sensei-email]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[sensei-email]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>13</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[suku]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[suku]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[twentytwentyfour]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[twentytwentyfour]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>1</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>18</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[uncategorized]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>19</wp:term_id>
 		<wp:term_taxonomy><![CDATA[sensei_learner]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[user-1]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[user-1]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>17</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[woocommerce-woocommerce]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[woocommerce/woocommerce]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[wordpress]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[wordpress]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>9</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[year-in-review]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[year in review]]></wp:term_name>
 	</wp:term>
 			<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
@@ -117,6 +243,71 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>http://localhost:10104/wp-global-styles-astra/</link>
+		<pubDate>Tue, 21 Jun 2022 12:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<guid isPermaLink="false">https://mikestott.me/wp-global-styles-astra/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1336</wp:post_id>
+		<wp:post_date><![CDATA[2022-06-21 12:00:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-06-21 12:00:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-06-21 12:00:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-21 12:00:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-astra]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ninoslavz]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"wp_theme";s:4:"slug";s:5:"astra";s:4:"name";s:5:"astra";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_astra_sites_enable_for_batch]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>http://localhost:10104/wp-global-styles-twentytwentyfour-2/</link>
+		<pubDate>Mon, 01 Jan 2024 21:18:26 +0000</pubDate>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<guid isPermaLink="false">https://mikestott.me/wp-global-styles-twentytwentyfour/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"styles":{"color":{"background":"var(--wp--preset--color--base-2)","text":"var(--wp--preset--color--contrast)"},"elements":{"link":{"color":{"text":"#2762f8"}},"button":{"color":{"background":"#2762f8"}},"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--body)"}}},"css":".wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color, .has-background):hover{\n background: none;\nborder: 1px solid white;\n}\n\n.z-index-front{\nz-index:20;\n}\n\n.magin-neg-100{\nmargin-top:-100px;\n}\n\nheader .logged-out{\n    background-color: #2762f8;\n    color: white;\n    padding: 10px;\n    padding-left: 15px;\n    padding-right: 15px;\n    border-radius: 50px;\n}\n\nheader .logged-out a:hover, header .logged-in a:hover{\ntext-decoration: none;\n}\n\nheader .logged-in{\n    background-color: white;\n    border: 1px soild #2762f8;\n    color: #2762f8;\n    padding: 10px;\n    padding-left: 15px;\n    padding-right: 15px;\n    border-radius: 50px;\n}\n\n.page-id-2029 header{\n   background: #2762f8;\ncolor:white;\n}\n.page-id-2029 header a{\ncolor:white;\n}\n\n.page-id-2029 .logged-in, .page-id-2029 .logged-out{\ndisplay:none;\n}\n\n.course-card{\n    border-radius: 20px;\n    border: 1px solid #2762f8;\n    padding-bottom: 20px;\n}\n\n.card-header{\nborder-radius: 20px 20px 0px 0px;\n}\n\n.stick-me{\n    position: sticky;\n    top: 50px;\n}\n\n.subscribe-squiggle{\nmargin-top:-25px !important;\n}\n\n.wp-block-gallery{\nmargin-bottom: 10px;\n}\n\n.single-post .entry-content h1,.single-post .entry-content h2,.single-post .entry-content h3,.single-post .entry-content h4, .single-post .entry-content h5{\nfont-weight: 600;\n}\n\n@media only screen and (max-width: 1026px) {\n.hide-mob{\n display:none;\n}\n}\n\n.wpplay{\n    width: 100vw !important;\n}"},"settings":{"layout":{"contentSize":"1200px"}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1487</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-01 21:18:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-01 21:18:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-01 21:18:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-01 21:18:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						</item>
 					<item>
 		<title><![CDATA[Home]]></title>
 		<link>http://localhost:10104/home/</link>
@@ -274,6 +465,328 @@
 		<wp:meta_value><![CDATA[https://mikestott.me/personal-portfolio-08/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[How I can help]]></title>
+		<link>http://localhost:10104/how-i-can-help/</link>
+		<pubDate>Wed, 03 Jan 2024 11:01:15 +0000</pubDate>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<guid isPermaLink="false">https://mikestott.me/how-i-can-help/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"color":{"background":"#2762f8"},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}},"spacing":{"margin":{"top":"0px"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"textColor":"base-2","layout":{"type":"default"}} -->
+<div class="wp-block-group has-base-2-color has-text-color has-background has-link-color" style="background-color:#2762f8;margin-top:0px;padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:spacer {"height":"56px"} -->
+<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-base-2-color has-text-color has-link-color has-heading-font-family">How I can help you.</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"6%"} -->
+<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"color":{"text":"#4fc0ff"},"elements":{"link":{"color":{"text":"#4fc0ff"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#4fc0ff;font-style:normal;font-weight:600">01</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"large","fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-base-2-color has-text-color has-link-color has-heading-font-family has-large-font-size">The Creator Central Newsletter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<p style="font-style:normal;font-weight:200">Every two weeks, receive topical insights into content creation and how you can grow and monetise your&nbsp;audience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--30);padding-left:0"><!-- wp:jetpack/subscriptions {"customButtonBackgroundColor":"#001c46","textColor":"base-2","borderRadius":50,"customBorderColor":"#001c46"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"base-2"} -->
+<hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"6%"} -->
+<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"color":{"text":"#4fc0ff"},"elements":{"link":{"color":{"text":"#4fc0ff"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#4fc0ff;font-style:normal;font-weight:600">02</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"large","fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-base-2-color has-text-color has-link-color has-heading-font-family has-large-font-size">Digital Courses for Creators</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<p style="font-style:normal;font-weight:200">Self-paced courses to guide you through growing and monetising your audience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#001c46"},"border":{"radius":"30px"},"spacing":{"padding":{"left":"var:preset|spacing|30","right":"var:preset|spacing|30","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"fontSize":"medium"} -->
+<div class="wp-block-button has-custom-font-size has-medium-font-size"><a class="wp-block-button__link has-background wp-element-button" href="https://mikestott.me/courses-by-mike/" style="border-radius:30px;background-color:#001c46;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--30)">View Courses</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"base-2"} -->
+<hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"6%"} -->
+<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"color":{"text":"#4fc0ff"},"elements":{"link":{"color":{"text":"#4fc0ff"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#4fc0ff;font-style:normal;font-weight:600">03</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"large","fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-base-2-color has-text-color has-link-color has-heading-font-family has-large-font-size">Website tear downs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<p style="font-style:normal;font-weight:200">Want me to review your website (for free) and provide suggestions on how to grow your audience?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#001c46"},"border":{"radius":"30px"},"spacing":{"padding":{"left":"var:preset|spacing|30","right":"var:preset|spacing|30","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"fontSize":"medium"} -->
+<div class="wp-block-button has-custom-font-size has-medium-font-size"><a class="wp-block-button__link has-background wp-element-button" href="https://mikestott.me/tear-downs/" style="border-radius:30px;background-color:#001c46;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--30)">Book a review</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"56px"} -->
+<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1933</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-03 11:01:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-03 11:01:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-23 07:33:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-23 07:33:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-i-can-help]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[What I write about]]></title>
+		<link>http://localhost:10104/how-i-can-help-copy/</link>
+		<pubDate>Wed, 03 Jan 2024 11:01:30 +0000</pubDate>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<guid isPermaLink="false">https://mikestott.me/how-i-can-help-copy/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}},"spacing":{"margin":{"top":"0px"},"padding":{"right":"20px","left":"20px"}}},"backgroundColor":"base","textColor":"contrast","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-contrast-color has-base-background-color has-text-color has-background has-link-color" style="margin-top:0px;padding-right:20px;padding-left:20px"><!-- wp:spacer {"height":"56px"} -->
+<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-contrast-color has-text-color has-link-color has-heading-font-family">What I write about.</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"6%"} -->
+<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#6d6d6d"}}},"typography":{"fontStyle":"normal","fontWeight":"600"},"color":{"text":"#6d6d6d"}},"fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#6d6d6d;font-style:normal;font-weight:600">01</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"large","fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-contrast-color has-text-color has-link-color has-heading-font-family has-large-font-size">Content Creation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}}} -->
+<p style="font-style:normal;font-weight:300">How do you come up with what to write about? How do you keep the ideas coming?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"base-2"} -->
+<hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"6%"} -->
+<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"color":{"text":"#6d6d6d"},"elements":{"link":{"color":{"text":"#6d6d6d"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#6d6d6d;font-style:normal;font-weight:600">02</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"large","fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-contrast-color has-text-color has-link-color has-heading-font-family has-large-font-size">Growing your Audience</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}}} -->
+<p style="font-style:normal;font-weight:300">You are creating content but no one is signing up to your list. Why? How do you go about growing your audience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"base-2"} -->
+<hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"6%"} -->
+<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"color":{"text":"#6d6d6d"},"elements":{"link":{"color":{"text":"#6d6d6d"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#6d6d6d;font-style:normal;font-weight:600">03</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"47%"} -->
+<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"large","fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-contrast-color has-text-color has-link-color has-heading-font-family has-large-font-size">Earn a living online</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}}} -->
+<p style="font-style:normal;font-weight:300">You're putting out content. Your audience is growing. How do you monetise and earn (potentially life changing) money online.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"56px"} -->
+<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1934</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-03 11:01:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-03 11:01:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-03 11:01:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-03 11:01:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-i-can-help-copy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_jetpack_post_was_ever_published]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Pre Footer]]></title>
+		<link>http://localhost:10104/pre-footer/</link>
+		<pubDate>Wed, 03 Jan 2024 11:07:22 +0000</pubDate>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<guid isPermaLink="false">https://mikestott.me/pre-footer/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"right":"30px","left":"30px"}}},"layout":{"type":"constrained","wideSize":"900px"}} -->
+<div class="wp-block-group" style="padding-right:30px;padding-left:30px"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"4rem"}},"fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-align-center has-heading-font-family" style="font-size:4rem"><span style="color:#2762f8;">Create</span> content aligned with your passion.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"4rem"}},"fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-align-center has-heading-font-family" style="font-size:4rem"><span style="color:#2762f8;">Grow</span> your audience and build loyal fans.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"4rem"}},"fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-align-center has-heading-font-family" style="font-size:4rem"><span style="color:#2762f8;">Earn</span> income online and support your loved ones.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--10);margin-bottom:var(--wp--preset--spacing--10)"><!-- wp:image {"align":"center","id":1889,"width":"31px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://mikestott.me/wp-content/uploads/2024/01/Arrow-12.png" alt="" class="wp-image-1889" style="width:31px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Subscribe to get started.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"#777777"}}},"color":{"text":"#777777"}}} -->
+<p class="has-text-align-center has-text-color has-link-color" style="color:#777777">Every two weeks, you’ll receive topical insights into content creation and how you can grow and monetise your&nbsp;audience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained","wideSize":"600px"}} -->
+<div class="wp-block-group"><!-- wp:jetpack/subscriptions {"borderRadius":50} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"53px"} -->
+<div style="height:53px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1942</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-03 11:07:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-03 11:07:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-03 11:07:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-03 11:07:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pre-footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 					<item>
 		<title><![CDATA[Create More Than You Consume ✍️]]></title>
 		<link>http://localhost:10104/?p=2100</link>
@@ -554,6 +1067,40 @@
 							</wp:comment>
 					</item>
 					<item>
+		<title><![CDATA[Subscribe Block]]></title>
+		<link>http://localhost:10104/subscribe-block/</link>
+		<pubDate>Fri, 05 Jan 2024 16:34:36 +0000</pubDate>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<guid isPermaLink="false">https://mikestott.me/subscribe-block/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"className":"stick-me","layout":{"type":"constrained"}} -->
+<div class="wp-block-group stick-me"><!-- wp:heading {"style":{"typography":{"fontSize":"1.7rem"}},"fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-heading-font-family" style="font-size:1.7rem">Subscribe to the Newsletter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Every two weeks, you'll receive topical insights into content creation and how you can grow and monetise your&nbsp;audience. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/subscriptions {"borderRadius":50} /--></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2116</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-05 16:34:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-05 16:34:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-05 16:34:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-05 16:34:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[subscribe-block]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[5 Creators To Follow And Why]]></title>
 		<link>http://localhost:10104/?p=2178</link>
 		<pubDate>Fri, 19 Jan 2024 21:57:32 +0000</pubDate>
@@ -811,6 +1358,54 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[5-creators-to-follow-and-why]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Newsletter intro subscribe form]]></title>
+		<link>http://localhost:10104/newsletter-intro-subscribe-form/</link>
+		<pubDate>Fri, 19 Jan 2024 21:38:26 +0000</pubDate>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<guid isPermaLink="false">https://mikestott.me/newsletter-intro-subscribe-form/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This issue: <strong>Create more than you consume</strong>. Subscribe to be emailed future issues where I'll go deeper into topics such as content creation, audience growth and earning a living online.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:image {"align":"center","id":2128,"width":"75px","height":"auto","sizeSlug":"full","linkDestination":"none","className":"subscribe-squiggle"} -->
+<figure class="wp-block-image aligncenter size-full is-resized subscribe-squiggle"><img src="https://mikestott.me/wp-content/uploads/2024/01/sub-down.png" alt="" class="wp-image-2128" style="width:75px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained","wideSize":"600px"}} -->
+<div class="wp-block-group"><!-- wp:jetpack/subscriptions {"borderRadius":50} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2182</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-19 21:38:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-19 21:38:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-19 21:38:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-19 21:38:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[newsletter-intro-subscribe-form]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_pattern_sync_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[unsynced]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1920,6 +2515,46 @@ https://twitter.com/mikestottwp/status/1746979651065397260?s=20
 							</wp:comment>
 					</item>
 					<item>
+		<title><![CDATA[Mike Click to Tweet]]></title>
+		<link>http://localhost:10104/mike-click-to-tweet/</link>
+		<pubDate>Thu, 01 Feb 2024 12:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<guid isPermaLink="false">https://mikestott.me/mike-click-to-tweet/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|10","left":"var:preset|spacing|20","right":"var:preset|spacing|20","top":"5px"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-base-2-background-color has-background" style="padding-top:5px;padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"align":"right","lightbox":{"enabled":false},"id":2379,"width":"20px","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image alignright size-full is-resized"><img src="https://mikestott.me/wp-content/uploads/2024/02/twittr-icon-p.png" alt="" class="wp-image-2379" style="width:20px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:ideabox/click-to-tweet {"tweet":"I firmly believe that there's a lot that Jetpack can do that people just don't know about. Let's change that.","url":"https://mikestott.me/year-in-review-2023/","via":"mikestottwp","textSize":"20px"} -->
+<div class="wp-block-ideabox-click-to-tweet"><div class="ib-click-to-tweet"><p class="ib-click-to-tweet-text" style="font-size:20px">I firmly believe that there's a lot that Jetpack can do that people just don't know about. Let's change that.</p><a class="ib-click-to-tweet-button" href="http://twitter.com/share?&amp;text=I%20firmly%20believe%20that%20there's%20a%20lot%20that%20Jetpack%20can%20do%20that%20people%20just%20don't%20know%20about.%20Let's%20change%20that.&amp;url=https://mikestott.me/year-in-review-2023/&amp;via=mikestottwp" target="_blank" rel="noopener noreferrer">Tweet</a></div></div>
+<!-- /wp:ideabox/click-to-tweet --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2385</wp:post_id>
+		<wp:post_date><![CDATA[2024-02-01 12:25:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-01 12:25:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-01 12:25:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-01 12:25:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mike-click-to-tweet]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_pattern_sync_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[unsynced]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[SEO optimised content for creators]]></title>
 		<link>http://localhost:10104/?p=2389</link>
 		<pubDate>Fri, 02 Feb 2024 17:11:27 +0000</pubDate>
@@ -2858,1456 +3493,6 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Courses]]></title>
-		<link>http://localhost:10104/courses-overview/</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:38 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/courses-overview/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:query {"queryId":0,"query":{"postType":"course","offset":0,"inherit":true},"displayLayout":{"type":"list"},"className":"wp-block-sensei-lms-course-list wp-block-sensei-lms-course-listu002du002dis-list-view"} --><div class="wp-block-query wp-block-sensei-lms-course-list wp-block-sensei-lms-course-list--is-list-view">
-<!-- wp:sensei-lms/course-list-filter {"types":["featured"],"lock":{"move":true}} /-->
-<!-- wp:post-template {"align":"center"} -->
-<!-- wp:group {"align":"center","style":{"spacing":{"padding":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}},"border":{"width":"1px","color":"#c7c3c34f"}},"className":"aligncenter","layout":{"inherit":false}} -->
-<div class="wp-block-group aligncenter has-border-color" style="border-color:#c7c3c34f;border-width:1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:post-featured-image {"isLink":true,"height":"324px","align":"center"} /-->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:sensei-lms/course-categories {"textAlign":"left","options":{},"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|20"}}}} -->
-<div style="padding-bottom:var(--wp--preset--spacing--20)" class="wp-block-sensei-lms-course-categories has-text-align-left"></div>
-<!-- /wp:sensei-lms/course-categories -->
-
-<!-- wp:post-title {"textAlign":"left","isLink":true,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}}} /-->
-
-<!-- wp:post-author {"textAlign":"left"} /-->
-
-<!-- wp:post-excerpt {"textAlign":"left"} /-->
-
-<!-- wp:sensei-lms/course-overview {"className":"has-text-align-left"} /-->
-
-<!-- wp:sensei-lms/course-progress {"defaultBarColor":"foreground","className":"has-text-align-left"} /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"top":"0"}}}} -->
-<div class="wp-block-column" style="padding-top:0;flex-basis:33.33%"><!-- wp:sensei-lms/course-actions -->
-<!-- wp:sensei-lms/button-take-course {"align":"right"} -->
-<div class="wp-block-sensei-lms-button-take-course is-style-default wp-block-sensei-button wp-block-button has-text-align-right"><button class="wp-block-button__link">Start Course</button></div>
-<!-- /wp:sensei-lms/button-take-course -->
-
-<!-- wp:sensei-lms/button-continue-course {"align":"right"} -->
-<div class="wp-block-sensei-lms-button-continue-course is-style-default wp-block-sensei-button wp-block-button has-text-align-right"><a class="wp-block-button__link">Continue</a></div>
-<!-- /wp:sensei-lms/button-continue-course -->
-
-<!-- wp:sensei-lms/button-view-results {"align":"right","className":"is-style-default"} -->
-<div class="wp-block-sensei-lms-button-view-results is-style-default wp-block-sensei-button wp-block-button has-text-align-right"><a class="wp-block-button__link">Visit Results</a></div>
-<!-- /wp:sensei-lms/button-view-results -->
-<!-- /wp:sensei-lms/course-actions --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-<!-- /wp:post-template -->
-
-<!-- wp:query-pagination {"paginationArrow":"arrow","align":"center","layout":{"type":"flex","justifyContent":"space-between"}} -->
-<!-- wp:query-pagination-previous {"fontSize":"small"} /-->
-
-<!-- wp:query-pagination-numbers /-->
-
-<!-- wp:query-pagination-next {"fontSize":"small"} /-->
-<!-- /wp:query-pagination --></div><!-- /wp:query -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2623</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[courses-overview]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[My Courses]]></title>
-		<link>http://localhost:10104/my-courses/</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:38 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/my-courses/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:sensei-lms/button-learner-messages /--><!-- wp:query {"queryId":0,"query":{"postType":"course","perPage":10,"offset":0,"inherit":false,"sticky":"","pages":0,"order":"desc","orderBy":"date","author":"","search":"","exclude":[]},"displayLayout":{"type":"list"},"className":"wp-block-sensei-lms-course-list wp-block-sensei-lms-course-listu002du002dis-list-view"} --><div class="wp-block-query wp-block-sensei-lms-course-list wp-block-sensei-lms-course-list--is-list-view"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:0"><!-- wp:sensei-lms/course-list-filter {"types":["student_course"],"defaultOptions":{"student_course":"active"},"lock":{"move":true}} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:post-template {"align":"center"} -->
-<!-- wp:group {"align":"center","style":{"spacing":{"padding":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}},"border":{"width":"1px","color":"#c7c3c34f"}},"className":"aligncenter","layout":{"inherit":false}} -->
-<div class="wp-block-group aligncenter has-border-color" style="border-color:#c7c3c34f;border-width:1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:post-featured-image {"isLink":true,"height":"324px","align":"center"} /-->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:sensei-lms/course-categories {"textAlign":"left","options":{},"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|20"}}}} -->
-<div style="padding-bottom:var(--wp--preset--spacing--20)" class="wp-block-sensei-lms-course-categories has-text-align-left"></div>
-<!-- /wp:sensei-lms/course-categories -->
-
-<!-- wp:post-title {"textAlign":"left","isLink":true,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}}} /-->
-
-<!-- wp:post-author {"textAlign":"left"} /-->
-
-<!-- wp:post-excerpt {"textAlign":"left"} /-->
-
-<!-- wp:sensei-lms/course-overview /-->
-
-<!-- wp:sensei-lms/course-progress {"defaultBarColor":"primary"} /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"top":"0"}}}} -->
-<div class="wp-block-column" style="padding-top:0;flex-basis:33.33%"><!-- wp:sensei-lms/course-actions -->
-<!-- wp:sensei-lms/button-take-course {"align":"right"} -->
-<div class="wp-block-sensei-lms-button-take-course is-style-default wp-block-sensei-button wp-block-button has-text-align-right"><button class="wp-block-button__link">Start Course</button></div>
-<!-- /wp:sensei-lms/button-take-course -->
-
-<!-- wp:sensei-lms/button-continue-course {"align":"right"} -->
-<div class="wp-block-sensei-lms-button-continue-course is-style-default wp-block-sensei-button wp-block-button has-text-align-right"><a class="wp-block-button__link">Continue</a></div>
-<!-- /wp:sensei-lms/button-continue-course -->
-
-<!-- wp:sensei-lms/button-view-results {"align":"right","className":"is-style-default"} -->
-<div class="wp-block-sensei-lms-button-view-results is-style-default wp-block-sensei-button wp-block-button has-text-align-right"><a class="wp-block-button__link">Visit Results</a></div>
-<!-- /wp:sensei-lms/button-view-results -->
-<!-- /wp:sensei-lms/course-actions --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-<!-- /wp:post-template -->
-
-<!-- wp:query-pagination {"paginationArrow":"arrow","align":"center","layout":{"type":"flex","justifyContent":"space-between"}} -->
-<!-- wp:query-pagination-previous {"fontSize":"small"} /-->
-
-<!-- wp:query-pagination-numbers /-->
-
-<!-- wp:query-pagination-next {"fontSize":"small"} /-->
-<!-- /wp:query-pagination --></div><!-- /wp:query -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2624</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-courses]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Course Completed]]></title>
-		<link>http://localhost:10104/course-completed/</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:38 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/course-completed/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"align":"center","fontSize":"large"} --><p class="has-text-align-center has-large-font-size">Congratulations on completing this course! 🥳</p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","anchor":"course-completed-actions"} --><div class="wp-block-buttons is-content-justification-center" id="course-completed-actions"><!-- wp:button {"className":"more-courses"} --><div class="wp-block-button more-courses"><a class="wp-block-button__link">Find More Courses</a></div><!-- /wp:button --></div><!-- /wp:buttons --><!-- wp:sensei-lms/course-results /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2625</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[course-completed]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Course created by [teacher:displayname]]]></title>
-		<link>http://localhost:10104/?sensei_email=course-created-by-teacherdisplayname</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=course-created-by-teacherdisplayname</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-created"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2626</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[course-created-by-teacherdisplayname]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[course_created]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Course Created]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[teacher]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Welcome to [course:name]]]></title>
-		<link>http://localhost:10104/?post_type=sensei_email&#038;p=2627</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?post_type=sensei_email&#038;p=2627</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-welcome"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2627</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[course_welcome]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Welcome to Course]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Where have you been?]]></title>
-		<link>http://localhost:10104/?post_type=sensei_email&#038;p=2639</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?post_type=sensei_email&#038;p=2639</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-no-progress-3-days"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2639</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student_no_progress_3_days]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[No Progress Reminder - 3 days]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[We missed you this week]]></title>
-		<link>http://localhost:10104/?post_type=sensei_email&#038;p=2640</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?post_type=sensei_email&#038;p=2640</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-no-progress-7-days"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2640</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student_no_progress_7_days]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[No Progress Reminder - 7 days]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[It has been a month]]></title>
-		<link>http://localhost:10104/?post_type=sensei_email&#038;p=2641</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?post_type=sensei_email&#038;p=2641</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-no-progress-28-days"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2641</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student_no_progress_28_days]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[No Progress Reminder - 28 days]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[How I can help]]></title>
-		<link>http://localhost:10104/how-i-can-help/</link>
-		<pubDate>Wed, 03 Jan 2024 11:01:15 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/how-i-can-help/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"style":{"color":{"background":"#2762f8"},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}},"spacing":{"margin":{"top":"0px"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"textColor":"base-2","layout":{"type":"default"}} -->
-<div class="wp-block-group has-base-2-color has-text-color has-background has-link-color" style="background-color:#2762f8;margin-top:0px;padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:spacer {"height":"56px"} -->
-<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-base-2-color has-text-color has-link-color has-heading-font-family">How I can help you.</h2>
-<!-- /wp:heading --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"6%"} -->
-<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"color":{"text":"#4fc0ff"},"elements":{"link":{"color":{"text":"#4fc0ff"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#4fc0ff;font-style:normal;font-weight:600">01</h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"large","fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-base-2-color has-text-color has-link-color has-heading-font-family has-large-font-size">The Creator Central Newsletter</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
-<p style="font-style:normal;font-weight:200">Every two weeks, receive topical insights into content creation and how you can grow and monetise your&nbsp;audience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--30);padding-left:0"><!-- wp:jetpack/subscriptions {"customButtonBackgroundColor":"#001c46","textColor":"base-2","borderRadius":50,"customBorderColor":"#001c46"} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:spacer {"height":"20px"} -->
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:separator {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"base-2"} -->
-<hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"/>
-<!-- /wp:separator --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"6%"} -->
-<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"color":{"text":"#4fc0ff"},"elements":{"link":{"color":{"text":"#4fc0ff"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#4fc0ff;font-style:normal;font-weight:600">02</h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"large","fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-base-2-color has-text-color has-link-color has-heading-font-family has-large-font-size">Digital Courses for Creators</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
-<p style="font-style:normal;font-weight:200">Self-paced courses to guide you through growing and monetising your audience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#001c46"},"border":{"radius":"30px"},"spacing":{"padding":{"left":"var:preset|spacing|30","right":"var:preset|spacing|30","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"fontSize":"medium"} -->
-<div class="wp-block-button has-custom-font-size has-medium-font-size"><a class="wp-block-button__link has-background wp-element-button" href="https://mikestott.me/courses-by-mike/" style="border-radius:30px;background-color:#001c46;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--30)">View Courses</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:spacer {"height":"20px"} -->
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:separator {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"base-2"} -->
-<hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"/>
-<!-- /wp:separator --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"6%"} -->
-<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"color":{"text":"#4fc0ff"},"elements":{"link":{"color":{"text":"#4fc0ff"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#4fc0ff;font-style:normal;font-weight:600">03</h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"large","fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-base-2-color has-text-color has-link-color has-heading-font-family has-large-font-size">Website tear downs</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
-<p style="font-style:normal;font-weight:200">Want me to review your website (for free) and provide suggestions on how to grow your audience?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#001c46"},"border":{"radius":"30px"},"spacing":{"padding":{"left":"var:preset|spacing|30","right":"var:preset|spacing|30","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"fontSize":"medium"} -->
-<div class="wp-block-button has-custom-font-size has-medium-font-size"><a class="wp-block-button__link has-background wp-element-button" href="https://mikestott.me/tear-downs/" style="border-radius:30px;background-color:#001c46;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--30)">Book a review</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:spacer {"height":"56px"} -->
-<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1933</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-03 11:01:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-03 11:01:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:33:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:33:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-i-can-help]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[What I write about]]></title>
-		<link>http://localhost:10104/how-i-can-help-copy/</link>
-		<pubDate>Wed, 03 Jan 2024 11:01:30 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/how-i-can-help-copy/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}},"spacing":{"margin":{"top":"0px"},"padding":{"right":"20px","left":"20px"}}},"backgroundColor":"base","textColor":"contrast","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-contrast-color has-base-background-color has-text-color has-background has-link-color" style="margin-top:0px;padding-right:20px;padding-left:20px"><!-- wp:spacer {"height":"56px"} -->
-<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-contrast-color has-text-color has-link-color has-heading-font-family">What I write about.</h2>
-<!-- /wp:heading --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"6%"} -->
-<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#6d6d6d"}}},"typography":{"fontStyle":"normal","fontWeight":"600"},"color":{"text":"#6d6d6d"}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#6d6d6d;font-style:normal;font-weight:600">01</h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"large","fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-contrast-color has-text-color has-link-color has-heading-font-family has-large-font-size">Content Creation</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}}} -->
-<p style="font-style:normal;font-weight:300">How do you come up with what to write about? How do you keep the ideas coming?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:separator {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"base-2"} -->
-<hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"/>
-<!-- /wp:separator --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"6%"} -->
-<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"color":{"text":"#6d6d6d"},"elements":{"link":{"color":{"text":"#6d6d6d"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#6d6d6d;font-style:normal;font-weight:600">02</h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"large","fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-contrast-color has-text-color has-link-color has-heading-font-family has-large-font-size">Growing your Audience</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}}} -->
-<p style="font-style:normal;font-weight:300">You are creating content but no one is signing up to your list. Why? How do you go about growing your audience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:separator {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"backgroundColor":"base-2"} -->
-<hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"/>
-<!-- /wp:separator --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"6%"} -->
-<div class="wp-block-column" style="flex-basis:6%"><!-- wp:heading {"style":{"color":{"text":"#6d6d6d"},"elements":{"link":{"color":{"text":"#6d6d6d"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-heading-font-family" style="color:#6d6d6d;font-style:normal;font-weight:600">03</h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"47%"} -->
-<div class="wp-block-column" style="flex-basis:47%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"large","fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-contrast-color has-text-color has-link-color has-heading-font-family has-large-font-size">Earn a living online</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}}} -->
-<p style="font-style:normal;font-weight:300">You're putting out content. Your audience is growing. How do you monetise and earn (potentially life changing) money online.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:spacer {"height":"56px"} -->
-<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1934</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-03 11:01:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-03 11:01:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-03 11:01:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-03 11:01:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-i-can-help-copy]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_jetpack_post_was_ever_published]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Pre Footer]]></title>
-		<link>http://localhost:10104/pre-footer/</link>
-		<pubDate>Wed, 03 Jan 2024 11:07:22 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/pre-footer/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"right":"30px","left":"30px"}}},"layout":{"type":"constrained","wideSize":"900px"}} -->
-<div class="wp-block-group" style="padding-right:30px;padding-left:30px"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"4rem"}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-align-center has-heading-font-family" style="font-size:4rem"><span style="color:#2762f8;">Create</span> content aligned with your passion.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"></div>
-<!-- /wp:group -->
-
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"4rem"}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-align-center has-heading-font-family" style="font-size:4rem"><span style="color:#2762f8;">Grow</span> your audience and build loyal fans.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"></div>
-<!-- /wp:group -->
-
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"4rem"}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-align-center has-heading-font-family" style="font-size:4rem"><span style="color:#2762f8;">Earn</span> income online and support your loved ones.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--10);margin-bottom:var(--wp--preset--spacing--10)"><!-- wp:image {"align":"center","id":1889,"width":"31px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://mikestott.me/wp-content/uploads/2024/01/Arrow-12.png" alt="" class="wp-image-1889" style="width:31px;height:auto"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:group -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Subscribe to get started.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"#777777"}}},"color":{"text":"#777777"}}} -->
-<p class="has-text-align-center has-text-color has-link-color" style="color:#777777">Every two weeks, you’ll receive topical insights into content creation and how you can grow and monetise your&nbsp;audience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"layout":{"type":"constrained","wideSize":"600px"}} -->
-<div class="wp-block-group"><!-- wp:jetpack/subscriptions {"borderRadius":50} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:spacer {"height":"53px"} -->
-<div style="height:53px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1942</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-03 11:07:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-03 11:07:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-03 11:07:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-03 11:07:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pre-footer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Subscribe Block]]></title>
-		<link>http://localhost:10104/subscribe-block/</link>
-		<pubDate>Fri, 05 Jan 2024 16:34:36 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/subscribe-block/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"className":"stick-me","layout":{"type":"constrained"}} -->
-<div class="wp-block-group stick-me"><!-- wp:heading {"style":{"typography":{"fontSize":"1.7rem"}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-heading-font-family" style="font-size:1.7rem">Subscribe to the Newsletter</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Every two weeks, you'll receive topical insights into content creation and how you can grow and monetise your&nbsp;audience. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:jetpack/subscriptions {"borderRadius":50} /--></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2116</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-05 16:34:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-05 16:34:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-05 16:34:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-05 16:34:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[subscribe-block]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Newsletter intro subscribe form]]></title>
-		<link>http://localhost:10104/newsletter-intro-subscribe-form/</link>
-		<pubDate>Fri, 19 Jan 2024 21:38:26 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/newsletter-intro-subscribe-form/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This issue: <strong>Create more than you consume</strong>. Subscribe to be emailed future issues where I'll go deeper into topics such as content creation, audience growth and earning a living online.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"25px"} -->
-<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:image {"align":"center","id":2128,"width":"75px","height":"auto","sizeSlug":"full","linkDestination":"none","className":"subscribe-squiggle"} -->
-<figure class="wp-block-image aligncenter size-full is-resized subscribe-squiggle"><img src="https://mikestott.me/wp-content/uploads/2024/01/sub-down.png" alt="" class="wp-image-2128" style="width:75px;height:auto"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"layout":{"type":"constrained","wideSize":"600px"}} -->
-<div class="wp-block-group"><!-- wp:jetpack/subscriptions {"borderRadius":50} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:spacer {"height":"25px"} -->
-<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2182</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-19 21:38:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-19 21:38:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-19 21:38:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-19 21:38:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[newsletter-intro-subscribe-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_pattern_sync_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[unsynced]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Mike Click to Tweet]]></title>
-		<link>http://localhost:10104/mike-click-to-tweet/</link>
-		<pubDate>Thu, 01 Feb 2024 12:25:00 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/mike-click-to-tweet/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|10","left":"var:preset|spacing|20","right":"var:preset|spacing|20","top":"5px"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-base-2-background-color has-background" style="padding-top:5px;padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"align":"right","lightbox":{"enabled":false},"id":2379,"width":"20px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image alignright size-full is-resized"><img src="https://mikestott.me/wp-content/uploads/2024/02/twittr-icon-p.png" alt="" class="wp-image-2379" style="width:20px"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:ideabox/click-to-tweet {"tweet":"I firmly believe that there's a lot that Jetpack can do that people just don't know about. Let's change that.","url":"https://mikestott.me/year-in-review-2023/","via":"mikestottwp","textSize":"20px"} -->
-<div class="wp-block-ideabox-click-to-tweet"><div class="ib-click-to-tweet"><p class="ib-click-to-tweet-text" style="font-size:20px">I firmly believe that there's a lot that Jetpack can do that people just don't know about. Let's change that.</p><a class="ib-click-to-tweet-button" href="http://twitter.com/share?&amp;text=I%20firmly%20believe%20that%20there's%20a%20lot%20that%20Jetpack%20can%20do%20that%20people%20just%20don't%20know%20about.%20Let's%20change%20that.&amp;url=https://mikestott.me/year-in-review-2023/&amp;via=mikestottwp" target="_blank" rel="noopener noreferrer">Tweet</a></div></div>
-<!-- /wp:ideabox/click-to-tweet --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2385</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-01 12:25:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-01 12:25:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-01 12:25:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-01 12:25:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mike-click-to-tweet]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_pattern_sync_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[unsynced]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Quiz Graded - [lesson:name]]]></title>
-		<link>http://localhost:10104/?sensei_email=quiz-graded-lessonname</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=quiz-graded-lessonname</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/quiz-graded"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2628</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[quiz-graded-lessonname]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[quiz_graded]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Quiz Graded]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[You have completed [course:name]]]></title>
-		<link>http://localhost:10104/?sensei_email=you-have-completed-coursename</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=you-have-completed-coursename</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-completed"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2629</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[you-have-completed-coursename]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[course_completed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Course Completed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[student:displayname] started [course:name]]]></title>
-		<link>http://localhost:10104/?sensei_email=studentdisplayname-started-coursename</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=studentdisplayname-started-coursename</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-starts-course"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2630</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[studentdisplayname-started-coursename]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student_starts_course]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Course Started]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[teacher]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[student:displayname] completed [course:name]]]></title>
-		<link>http://localhost:10104/?sensei_email=studentdisplayname-completed-coursename</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=studentdisplayname-completed-coursename</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-completes-course"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2631</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[studentdisplayname-completed-coursename]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student_completes_course]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Course Completed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[teacher]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[student:displayname] completed [lesson:name]]]></title>
-		<link>http://localhost:10104/?sensei_email=studentdisplayname-completed-lessonname</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=studentdisplayname-completed-lessonname</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-completes-lesson"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2632</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[studentdisplayname-completed-lessonname]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student_completes_lesson]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lesson Completed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[teacher]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[student:displayname] has submitted a quiz]]></title>
-		<link>http://localhost:10104/?sensei_email=studentdisplayname-has-submitted-a-quiz</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=studentdisplayname-has-submitted-a-quiz</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-submits-quiz"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2633</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[studentdisplayname-has-submitted-a-quiz]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student_submits_quiz]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Quiz Submitted]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[teacher]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[student:displayname] - [subject:displaysubject]]]></title>
-		<link>http://localhost:10104/?sensei_email=studentdisplayname-subjectdisplaysubject</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=studentdisplayname-subjectdisplaysubject</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-sends-message"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2634</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[studentdisplayname-subjectdisplaysubject]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student_sends_message]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Student Sent Message]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[teacher]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[New Course Assigned: [course:name]]]></title>
-		<link>http://localhost:10104/?sensei_email=new-course-assigned-coursename</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=new-course-assigned-coursename</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/new-course-assigned"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2635</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[new-course-assigned-coursename]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[new_course_assigned]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Course Assigned]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[teacher]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[teacher:displayname] - [subject:displaysubject]]]></title>
-		<link>http://localhost:10104/?sensei_email=teacherdisplayname-subjectdisplaysubject</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=teacherdisplayname-subjectdisplaysubject</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/student-message-reply"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2636</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[teacherdisplayname-subjectdisplaysubject]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student_message_reply]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Message Reply Received]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[student:displayname] - [subject:displaysubject]]]></title>
-		<link>http://localhost:10104/?sensei_email=studentdisplayname-subjectdisplaysubject-2</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=studentdisplayname-subjectdisplaysubject-2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/teacher-message-reply"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2637</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[studentdisplayname-subjectdisplaysubject-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[teacher_message_reply]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Message Reply Received]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[teacher]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Get ready - [lesson:name] - starts [date:dtext]!]]></title>
-		<link>http://localhost:10104/?sensei_email=get-ready-lessonname-starts-datedtext</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=get-ready-lessonname-starts-datedtext</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/content-drip"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2638</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[get-ready-lessonname-starts-datedtext]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[content_drip]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lessons Available (Content Drip)]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[course:name] expires today!]]></title>
-		<link>http://localhost:10104/?sensei_email=coursename-expires-today</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=coursename-expires-today</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-expiration-today"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2642</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[coursename-expires-today]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[course_expiration_today]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Course Expiration - Today]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[course:name] expires in 3 days!]]></title>
-		<link>http://localhost:10104/?sensei_email=coursename-expires-in-3-days</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=coursename-expires-in-3-days</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-expiration-x-days"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2643</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[coursename-expires-in-3-days]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[course_expiration_3_days]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Course Expiration - in 3 days]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[course:name] expires in 7 days!]]></title>
-		<link>http://localhost:10104/?sensei_email=coursename-expires-in-7-days</link>
-		<pubDate>Fri, 23 Feb 2024 07:30:39 +0000</pubDate>
-		<dc:creator><![CDATA[Mike]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:10104/?sensei_email=coursename-expires-in-7-days</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:pattern {"slug":"sensei-lms/course-expiration-x-days"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2644</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-23 07:30:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-23 07:30:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-23 07:30:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[coursename-expires-in-7-days]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sensei_email]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_identifier]]></wp:meta_key>
-		<wp:meta_value><![CDATA[course_expiration_7_days]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Course Expiration - in 7 days]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-sensei_email]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_is_pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sensei_email_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[student]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>http://localhost:10104/navigation/</link>
 		<pubDate>Thu, 22 Feb 2024 21:57:29 +0000</pubDate>
@@ -4357,71 +3542,6 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
 						</item>
 					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost:10104/wp-global-styles-astra/</link>
-		<pubDate>Tue, 21 Jun 2022 12:00:53 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/wp-global-styles-astra/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1336</wp:post_id>
-		<wp:post_date><![CDATA[2022-06-21 12:00:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-06-21 12:00:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-06-21 12:00:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-06-21 12:00:53]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-astra]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ninoslavz]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"wp_theme";s:4:"slug";s:5:"astra";s:4:"name";s:5:"astra";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_astra_sites_enable_for_batch]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost:10104/wp-global-styles-twentytwentyfour-2/</link>
-		<pubDate>Mon, 01 Jan 2024 21:18:26 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/wp-global-styles-twentytwentyfour/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"styles":{"color":{"background":"var(--wp--preset--color--base-2)","text":"var(--wp--preset--color--contrast)"},"elements":{"link":{"color":{"text":"#2762f8"}},"button":{"color":{"background":"#2762f8"}},"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--body)"}}},"css":".wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color, .has-background):hover{\n background: none;\nborder: 1px solid white;\n}\n\n.z-index-front{\nz-index:20;\n}\n\n.magin-neg-100{\nmargin-top:-100px;\n}\n\nheader .logged-out{\n    background-color: #2762f8;\n    color: white;\n    padding: 10px;\n    padding-left: 15px;\n    padding-right: 15px;\n    border-radius: 50px;\n}\n\nheader .logged-out a:hover, header .logged-in a:hover{\ntext-decoration: none;\n}\n\nheader .logged-in{\n    background-color: white;\n    border: 1px soild #2762f8;\n    color: #2762f8;\n    padding: 10px;\n    padding-left: 15px;\n    padding-right: 15px;\n    border-radius: 50px;\n}\n\n.page-id-2029 header{\n   background: #2762f8;\ncolor:white;\n}\n.page-id-2029 header a{\ncolor:white;\n}\n\n.page-id-2029 .logged-in, .page-id-2029 .logged-out{\ndisplay:none;\n}\n\n.course-card{\n    border-radius: 20px;\n    border: 1px solid #2762f8;\n    padding-bottom: 20px;\n}\n\n.card-header{\nborder-radius: 20px 20px 0px 0px;\n}\n\n.stick-me{\n    position: sticky;\n    top: 50px;\n}\n\n.subscribe-squiggle{\nmargin-top:-25px !important;\n}\n\n.wp-block-gallery{\nmargin-bottom: 10px;\n}\n\n.single-post .entry-content h1,.single-post .entry-content h2,.single-post .entry-content h3,.single-post .entry-content h4, .single-post .entry-content h5{\nfont-weight: 600;\n}\n\n@media only screen and (max-width: 1026px) {\n.hide-mob{\n display:none;\n}\n}\n\n.wpplay{\n    width: 100vw !important;\n}"},"settings":{"layout":{"contentSize":"1200px"}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1487</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-01 21:18:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-01 21:18:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-01 21:18:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-01 21:18:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
-						</item>
-					<item>
 		<title><![CDATA[Header]]></title>
 		<link>http://localhost:10104/header/</link>
 		<pubDate>Mon, 01 Jan 2024 21:19:51 +0000</pubDate>
@@ -4455,6 +3575,52 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
+		<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Footer]]></title>
+		<link>http://localhost:10104/footer/</link>
+		<pubDate>Mon, 01 Jan 2024 21:19:51 +0000</pubDate>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<guid isPermaLink="false">https://mikestott.me/footer/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"30%"} -->
+<div class="wp-block-column" style="flex-basis:30%"><!-- wp:group {"style":{"dimensions":{"minHeight":""},"layout":{"selfStretch":"fit","flexSize":null}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:site-title {"level":0,"fontSize":"medium"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1491</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-01 21:19:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-01 21:19:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-01 21:19:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-01 21:19:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
 		<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
@@ -5315,6 +4481,38 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Post Meta]]></title>
+		<link>http://localhost:10104/post-meta/</link>
+		<pubDate>Tue, 02 Jan 2024 11:40:23 +0000</pubDate>
+		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
+		<guid isPermaLink="false">https://mikestott.me/post-meta/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1752</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-02 11:40:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-02 11:40:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-02 11:40:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-02 11:40:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[post-meta]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+		<category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Articles]]></title>
 		<link>http://localhost:10104/wp-custom-template-articles/</link>
 		<pubDate>Mon, 29 Jan 2024 16:40:20 +0000</pubDate>
@@ -5516,84 +4714,6 @@ https://twitter.com/mikestottwp/status/1757505851407958096?s=20
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
-		<title><![CDATA[Footer]]></title>
-		<link>http://localhost:10104/footer/</link>
-		<pubDate>Mon, 01 Jan 2024 21:19:51 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/footer/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":"30%"} -->
-<div class="wp-block-column" style="flex-basis:30%"><!-- wp:group {"style":{"dimensions":{"minHeight":""},"layout":{"selfStretch":"fit","flexSize":null}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:site-title {"level":0,"fontSize":"medium"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"20%"} -->
-<div class="wp-block-column" style="flex-basis:20%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1491</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-01 21:19:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-01 21:19:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-01 21:19:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-01 21:19:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[footer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
-		<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Post Meta]]></title>
-		<link>http://localhost:10104/post-meta/</link>
-		<pubDate>Tue, 02 Jan 2024 11:40:23 +0000</pubDate>
-		<dc:creator><![CDATA[user01165100550120]]></dc:creator>
-		<guid isPermaLink="false">https://mikestott.me/post-meta/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1752</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-02 11:40:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-02 11:40:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-02 11:40:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-02 11:40:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[post-meta]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
-		<category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Sidebar]]></title>
 		<link>http://localhost:10104/sidebar/</link>
