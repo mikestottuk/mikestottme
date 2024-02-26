@@ -24,6 +24,13 @@
       }
     },
     {
+      "step": "installPlugin",
+      "pluginZipFile": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/mikestottuk/mikestottme/main/kill-errors.zip"
+      }
+    },
+    {
       "step": "login",
       "username": "admin",
       "password": "password"
