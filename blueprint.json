@@ -15,6 +15,12 @@
       "password": "password"
     },
     {
+      "step": "defineWpConfigConsts",
+      "consts": {
+          "WP_DEBUG": false
+      }
+    },
+    {
       "step": "runPHP",
       "code": "<?php require '/wordpress/wp-load.php'; $wpdb->query('delete from wp_posts');"
     },
