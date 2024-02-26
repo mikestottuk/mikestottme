@@ -5,8 +5,18 @@
     {
       "step": "installPlugin",
       "pluginZipFile": {
+          "resource": "wordpress.org/plugins",
+          "slug": "zero-bs-crm"
+      },
+      "options": {
+          "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginZipFile": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/mikestottuk/mikestottme/main/opinion8.zip"
+        "url": "https://raw.githubusercontent.com/mikestottuk/mikestottme/main/jetpackcrm-ext-sales-dashboard.zip"
       }
     },
     {
@@ -18,7 +28,8 @@
       "step": "defineWpConfigConsts",
       "consts": {
           "WP_DEBUG": false,
-          "WP_DEBUG_DISPLAY": false
+          "WP_DEBUG_DISPLAY": false,
+          "DISALLOW_FILE_EDIT": true
       }
     },
     {
