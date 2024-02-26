@@ -6,7 +6,7 @@
       "step": "installPlugin",
       "pluginZipFile": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/mikestottuk/mikestottme/main/social-gallery-pro.zip"
+        "url": "https://raw.githubusercontent.com/mikestottuk/mikestottme/main/opinion8.zip"
       }
     },
     {
@@ -17,19 +17,13 @@
     {
       "step": "defineWpConfigConsts",
       "consts": {
-          "WP_DEBUG": false
+          "WP_DEBUG": false,
+          "WP_DEBUG_DISPLAY": false
       }
     },
     {
       "step": "runPHP",
       "code": "<?php require '/wordpress/wp-load.php'; $wpdb->query('delete from wp_posts');"
-    },
-    {
-      "step": "importFile",
-      "file": {
-        "resource": "url",
-        "url": "https://raw.githubusercontent.com/mikestottuk/mikestottme/main//social-gallery-site.xml"
-      }
     }
   ]
 }
