@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-02-26 15:25" -->
+	<!-- generator="WordPress/6.4.3" created="2024-02-26 15:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Mike Stott</title>
 	<link>https://mikestott.me</link>
 	<description></description>
-	<pubDate>Mon, 26 Feb 2024 15:25:43 +0000</pubDate>
+	<pubDate>Mon, 26 Feb 2024 15:59:32 +0000</pubDate>
 	<language>en-GB</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://mikestott.me</wp:base_site_url>
 	<wp:base_blog_url>https://mikestott.me</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[example.com]]></wp:author_email><wp:author_display_name><![CDATA[Mike Stott]]></wp:author_display_name><wp:author_first_name><![CDATA[Mike]]></wp:author_first_name><wp:author_last_name><![CDATA[Stott]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Mike Stott]]></wp:author_display_name><wp:author_first_name><![CDATA[Mike]]></wp:author_first_name><wp:author_last_name><![CDATA[Stott]]></wp:author_last_name></wp:author>
 
 				
 	<generator>https://wordpress.org/?v=6.4.3</generator>
@@ -150,7 +150,7 @@
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-	<item>
+					<item>
 		<title><![CDATA[Creating content from anywhere]]></title>
 		<link>https://mikestott.me/creating-content-from-anywhere/</link>
 		<pubDate>Mon, 26 Feb 2024 15:21:11 +0000</pubDate>
@@ -165,33 +165,33 @@
 <p>Taken from #officetoday <a href="https://officetoday.wordpress.com/">here</a> and to showcase a Social Gallery in a playground demo.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":2706,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://mikestott.me/wp-content/uploads/2024/02/remote_1-1024x576.webp" alt="" class="wp-image-2706"/></figure>
+<!-- wp:gallery {"linkTo":"media","sizeSlug":"medium"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":2706,"sizeSlug":"medium","linkDestination":"media"} -->
+<figure class="wp-block-image size-medium"><a href="https://mikestott.me/wp-content/uploads/2024/02/remote_1.webp"><img src="https://mikestott.me/wp-content/uploads/2024/02/remote_1-300x169.webp" alt="" class="wp-image-2706"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":2705,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://mikestott.me/wp-content/uploads/2024/02/remote_5-1024x576.webp" alt="" class="wp-image-2705"/></figure>
+<!-- wp:image {"id":2705,"sizeSlug":"medium","linkDestination":"media"} -->
+<figure class="wp-block-image size-medium"><a href="https://mikestott.me/wp-content/uploads/2024/02/remote_5.webp"><img src="https://mikestott.me/wp-content/uploads/2024/02/remote_5-300x169.webp" alt="" class="wp-image-2705"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":2707,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://mikestott.me/wp-content/uploads/2024/02/remote_4-1024x768.webp" alt="" class="wp-image-2707"/></figure>
+<!-- wp:image {"id":2707,"sizeSlug":"medium","linkDestination":"media"} -->
+<figure class="wp-block-image size-medium"><a href="https://mikestott.me/wp-content/uploads/2024/02/remote_4.webp"><img src="https://mikestott.me/wp-content/uploads/2024/02/remote_4-300x225.webp" alt="" class="wp-image-2707"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":2709,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://mikestott.me/wp-content/uploads/2024/02/remote_3-1024x768.webp" alt="" class="wp-image-2709"/></figure>
+<!-- wp:image {"id":2709,"sizeSlug":"medium","linkDestination":"media"} -->
+<figure class="wp-block-image size-medium"><a href="https://mikestott.me/wp-content/uploads/2024/02/remote_3.webp"><img src="https://mikestott.me/wp-content/uploads/2024/02/remote_3-300x225.webp" alt="" class="wp-image-2709"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":2708,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://mikestott.me/wp-content/uploads/2024/02/remote_2-1024x768.webp" alt="" class="wp-image-2708"/></figure>
+<!-- wp:image {"id":2708,"sizeSlug":"medium","linkDestination":"media"} -->
+<figure class="wp-block-image size-medium"><a href="https://mikestott.me/wp-content/uploads/2024/02/remote_2.webp"><img src="https://mikestott.me/wp-content/uploads/2024/02/remote_2-300x225.webp" alt="" class="wp-image-2708"/></a></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2703</wp:post_id>
 		<wp:post_date><![CDATA[2024-02-26 15:21:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-26 15:21:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-26 15:21:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-26 15:21:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-26 15:58:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-26 15:58:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[creating-content-from-anywhere]]></wp:post_name>
@@ -211,7 +211,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		<wp:meta_value><![CDATA[24]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -223,7 +223,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[rank_math_og_content_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"check";s:32:"c822001265ec1bea7cd719a27f20d9eb";s:6:"images";a:1:{i:0;s:70:"https://mikestott.me/wp-content/uploads/2024/02/remote_1-1024x576.webp";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"check";s:32:"bba11bd5bae3bd1c0354d311e39a7826";s:6:"images";a:1:{i:0;s:69:"https://mikestott.me/wp-content/uploads/2024/02/remote_1-300x169.webp";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
