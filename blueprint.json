@@ -1,18 +1,29 @@
 {
-    "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "landingPage": "/wp-admin/admin.php?page=sgp-plugin-settings",
-    "steps": [
-      {
-        "step": "installPlugin",
-        "pluginZipFile": {
-          "resource": "url",
-          "url": "https://github.com/mikestottuk/mikestottme/raw/main/social-gallery-pro.zip"
-        }
-      },
-      {
-        "step": "login",
-        "username": "admin",
-        "password": "password"
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "landingPage": "/wp-admin/",
+  "steps": [
+    {
+      "step": "installPlugin",
+      "pluginZipFile": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/mikestottuk/mikestottme/main/social-gallery-pro.zip"
       }
-    ]
-  }
+    },
+    {
+      "step": "login",
+      "username": "admin",
+      "password": "password"
+    }
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-load.php'; $wpdb->query('delete from wp_posts');"
+    },
+    {
+      "step": "importFile",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/mikestottuk/mikestottme/main//social-gallery-site.xml"
+      }
+    }
+  ]
+}
