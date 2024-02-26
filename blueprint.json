@@ -4,6 +4,7 @@
   "phpExtensionBundles": [
     "kitchen-sink"
   ],
+  "features": { "networking": true },
   "steps": [
     {
       "step": "installPlugin",
@@ -31,7 +32,17 @@
       "step": "defineWpConfigConsts",
       "consts": {
           "WP_DEBUG": false,
+      }
+    },
+    {
+      "step": "defineWpConfigConsts",
+      "consts": {
           "WP_DEBUG_DISPLAY": false,
+      }
+    },
+    {
+      "step": "defineWpConfigConsts",
+      "consts": {
           "DISALLOW_FILE_EDIT": true
       }
     },
